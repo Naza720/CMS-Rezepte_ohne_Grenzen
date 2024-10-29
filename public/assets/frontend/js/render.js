@@ -7,15 +7,12 @@ const render = {
     
     header(){
         let elHeader = settings.elements.header;
-        //console.log(elHeader);
-        
         const wrap =dom.create({
             type: 'div', 
             parent: elHeader,
             cssClassName: 'TopWrapp', 
             insert: 'append'
         })
-        
         const pagTitle = dom.create({
             content: 'Rezepte ohne Grenzen', 
             type: 'h1', 
@@ -114,34 +111,26 @@ const render = {
 
                     // Event Listener hinzufügen, um nach Attributen zu filtern
                     checkbox.addEventListener('click', () => {
-                         // Den Filter für die Attribute aktualisieren:
-                        // new array filter, suche in globale array ob ein object gib der filterby = attribute gib
-                        //settings.filters = [
-                        //{ filterBy: 'name', value: 'tacos al pastor' },
-                        //{ filterBy: 'attribute', value: ['Vegetarisch'] }];
+                        
                         let filter = settings.filters.find(val => val.filterBy === 'attribute');
                         if (!filter) {
-                            settings.filters.push({ //object filter in filtres[] speichert
+                            settings.filters.push({ 
                                 filterBy: 'attribute',
-                                value: [subItem] ////attr value von checkbox ['Vegetarisch']
+                                value: [subItem] 
                             });
                         } else {
                             if (filter.value.includes(subItem)) {
-                                // Wenn der filter subItem schon in der array ist, dann löschen ... Filtern desaktivieren / Filter abwählen 
+                               
                                 filter.value = filter.value.filter(item => item !== subItem);
                             } else {
-                                // filtern hinzufügen
+                      
                                 filter.value.push(subItem);
                             }
-                            // wenn kein filter dann filters löschen, um alle Rezepte zu rendern 
+                          
                            if (filter.value.length === 0) {
                                 settings.filters = settings.filters.filter(val => val.filterBy !== 'attribute');
                             }
                         }
-                        //console.log('filters array:', settings.filters);
-                        //console.log('filter:', filter);
-                        
-                        
                         render.content();
                     });
                 }); 
@@ -185,16 +174,14 @@ const render = {
             insert: 'append'
         });
         
-         //leere filter für name in globale array addieren
-        settings.filters.push({ // object an setting.filters addieren
+        
+        settings.filters.push({ 
             filterBy: 'name',
             value: ''
         })
-
-        //filter aktualisieren wenn geschrieben wird
         searchRecipe.addEventListener('input', evt =>{
             let filter = settings.filters.find(val => val.filterBy === 'name');
-            filter.value = evt.target.value // value aktualisieren mit eingegebene text
+            filter.value = evt.target.value 
             render.content();
         });
     }, 
@@ -202,37 +189,29 @@ const render = {
  
     content(){
         
-        let filteredContent  = [...settings.data]; //kopie bei Reference bzw. echte Kopie
-        //console.log(settings.data);
-        //console.log(filteredContent);
-        
-            // filter?
+        let filteredContent  = [...settings.data]; 
+     
+         
         if (settings.filters.length > 0) {
             settings.filters.forEach(filter => {
                 if (filter.filterBy === 'name') {
-                    // Filters iterieren, Filtern nach Namen (Groß/klein Schreibung)
-                    //Wenn filter.filterBy "name" ist, dann ist val[filter.filterBy] gleich mit val.name.
+                    
                     filteredContent = filteredContent.filter(val =>
                         val[filter.filterBy].toLowerCase().includes(filter.value.toLowerCase())
-                        //val.name es 'Pizza Margherita'.includes('pizza') = true
+                      
                     );
                 } else if (filter.filterBy === 'attribute') {
-                    // Filtrar por atributos
+                
                     filteredContent = filteredContent.filter(val =>
                         filter.value.some(v => val[filter.filterBy].includes(v))
                     );
                 }
-                //console.log('filteredContent:', filteredContent);
+               
                 
             });
         }
-
-         //console.log(settings);
          let elContainer = settings.elements.container;
-         //console.log(elContainer);
          elContainer.innerHTML = "";
-
-        //filteredContent rendern
         filteredContent.forEach(val => {
             const collection = dom.create({
                 type: 'div', 
@@ -253,7 +232,7 @@ const render = {
                 src: val.bild, 
                 insert: 'append',
                 attr: {
-                    name: val.name // für showRecipeDetail()
+                    name: val.name 
                 }
             });
             const info = dom.create({ 
@@ -303,14 +282,11 @@ const render = {
                 cssClassName: 'btn',
                 insert: 'append',
                 attr: {
-                    name: val.name // für showRecipeDetail()
+                    name: val.name 
                 }
             }); 
             btn.addEventListener('click', evt =>{
                 const recipeName = evt.target.getAttribute('name');
-                 //let elMain = settings.elements.main;
-                //elContainer.style.display = 'none';
-                //console.log(elMain);
                 render.showRecipeDetail(recipeName);
             });
             img.addEventListener('click', evt =>{
@@ -321,21 +297,16 @@ const render = {
     },
 
     showRecipeDetail(recipeName){
-
-        //console.log(recipeName);
         let elMain = settings.elements.main;
         elMain.innerHTML = "";
-        
-         //Rezept suchen -> atrr. name
         const recipe = settings.data.find(val => val.name === recipeName);
         if (recipe) {
-            const TopDivScroll = dom.create({ //div um nach oben zu scrollen
+            const TopDivScroll = dom.create({
                 type: 'div', 
                 parent: elMain,
                 cssClassName: '', 
                 insert: 'append'
             });
-             // scroll nach oben bringen
              TopDivScroll.scrollIntoView({ behavior: 'smooth' });
             const ContRezept = dom.create({
                 type: 'div', 
@@ -475,7 +446,6 @@ const render = {
                 render.createContainerInMain();
                 render.content();
             })
-            //  print
             btnPrint.addEventListener('click', () => {
                 window.print();
             });
@@ -484,17 +454,13 @@ const render = {
     createContainerInMain() {
         let elMain = settings.elements.main;
         let elContainer = settings.elements.container;
-    
-        // container leer? 
         if (!elMain.contains(elContainer)) {
-            // wenn nicht in main addieren
             const elContainer = dom.create({
                 type: 'div', 
                 parent: elMain,
                 id: 'container', 
                 insert: 'append'
             });
-        //variable in settings.elements.container aktualisieren
             settings.elements.container = elContainer;
         }
     }
