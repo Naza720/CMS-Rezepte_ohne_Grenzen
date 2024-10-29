@@ -10,14 +10,13 @@ const domMapping = () => {
 
 
 const sendRequest = evt =>{
-    //neue Laden der Seite unterbinden
     evt.preventDefault();
 
-    fetch('/uploadNewRecipe', { // an welche route wird die Anfrage gesendet
-        method: 'post', //als post methode
-        body: new FormData(elements.myForm) // body formdata eintragen
+    fetch('/uploadNewRecipe', { 
+        method: 'post', 
+        body: new FormData(elements.myForm) 
     }).then(
-        result => result.text()// das wird an server übertragen
+        result => result.text()
     ).then(
         (message => alert(message))
     ).catch(
