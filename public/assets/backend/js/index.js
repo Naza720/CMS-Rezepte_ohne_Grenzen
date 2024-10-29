@@ -7,8 +7,6 @@ const elements = {};
 const domMapping = () => {
     elements.myForm = document.querySelector('#recipeForm');
 }
-
-
 const sendRequest = evt =>{
     evt.preventDefault();
 
@@ -23,15 +21,12 @@ const sendRequest = evt =>{
         console.warn
     )
 }
-
 const appendEventlisteners = () => {
     elements.myForm.addEventListener('submit', sendRequest);
 }
-
 const init = () => {
     domMapping();
     appendEventlisteners();
 }
-
 // INIT
 init();
