@@ -1,0 +1,326 @@
+@font-face {
+	font-display: swap; 
+	font-family: Merriweather;
+	src: url('../fonts/Merriweather-Regular.ttf') format('truetype'); 
+  }
+  @font-face {
+	font-display: swap; 
+	font-family: Quicksand;
+	src: url('../fonts/ Quicksand-VariableFont_wght.ttf') format('truetype'); 
+  }
+  @font-face {
+	font-display: swap; 
+	font-family: Roboto;
+	src: url('../fonts/ Roboto-Medium.ttf') format('truetype'); 
+  }
+  @font-face {
+	font-display: swap; 
+	font-family: lato;
+	src: url('../fonts/ Lato-Light.ttf') format('truetype'); 
+  }
+  @font-face {
+	font-display: swap; 
+	font-family: Montserrat;
+	src: url('../fonts/ Montserrat-VariableFont_wght.ttf') format('truetype'); 
+  }
+  
+ 
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+img{max-width: 100%;}
+html{
+    font-size: 1.2rem;
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	scroll-behavior: smooth;
+}
+
+header{
+    background-color: #a0d1ae;
+	position: fixed;
+	right: 0;
+	top:0;
+	height: 10vh;
+	width: 100%;
+	z-index: 99;
+    display: flex;
+	align-items: center;
+	justify-content:center;
+}
+.TopWrapp{
+    width: 75%;
+    display: flex;
+	align-items:  baseline;
+	justify-content:space-between;
+    gap:5rem;
+    height: 10vh;
+}
+h1{
+	color: #fff; 
+    font-size: 1.5rem;
+    font-family: Quicksand;
+}
+.logo{
+	padding-right: 0.5rem;
+	display: inline-block;
+}
+.menu{	
+    list-style-type: none;
+	text-align:justify;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 2rem;
+	font: 200 1.2rem Helvetica;
+}
+
+.liMenu{
+	height: 10vh;
+	display: flex;
+	align-items: center;
+}
+.liMenu a{
+	width: 100%;
+	text-decoration: none;
+	padding: 20px;
+	position: relative;
+    display: inline-block;
+    color: #fff; 
+    text-decoration: none;
+    padding-bottom: 5px; /* Espacio entre el texto y la línea */
+}
+.liMenu a:hover{color: #ffffffe8}
+.liMenu a::after {
+	content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 2px;
+    background-color: #fff; 
+    transition: width 0.3s ease;
+}
+.liMenu a:hover::after {width: 100%; }
+.submenu {
+    display: flex; 
+    position: absolute;
+    top: 100%;
+    left: 0;
+	right: 0;
+    list-style: none;
+    padding: 2rem;
+    margin: 0;
+    background-color: #a0d1ae;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+	flex-direction: column;
+	height: 20vh;
+	flex-wrap: wrap;
+	width: 100%;
+}
+.submenu li {
+	display: inline-block;
+    margin-bottom: 0.5rem;
+	font-size: 0.8rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: #fff; 
+	position: relative; 
+    cursor: pointer;
+	padding-left: 10px; 
+    transition: color 0.3s ease-in-out, padding-left 0.3s ease-in-out;
+}
+.submenu li:hover { color: #676875; }
+.check {
+    width: 10px;
+    height: 10px;
+}
+
+.submenu span{padding-left: 5px;}
+
+.search-form {
+    display: flex;
+    align-items: center;
+	border: 1px solid #a0d1ae;
+    border-radius: 20px;
+    outline: none;
+    width: 200px; 
+	background-color: #fff;
+	padding-left: 0.5rem;
+	margin-right: 1rem;
+}
+.magnifier{
+	color: #676875;
+	font-size: 0.8rem;
+  	padding-left: 0.2rem;
+}
+
+.search-input {
+    padding: 0.5rem 0.8rem 0.5rem 1rem; 
+    font-size: 0.5rem;
+	border-radius: 20px;
+	border: 1px solid #fff;
+	outline: none;
+}
+/*----Main-----------------------------------*/
+main{width: 100%;}
+#container{
+	width: 75%;
+	margin: 15vh auto ;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 2rem 3rem;
+  	align-items: baseline;
+}
+.collection{
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 0rem;
+}
+.pic{
+	display: block;
+	width: 400px;
+  	height: 300px;
+	border-radius: 10px;
+	overflow: hidden;
+}
+.info{width: 400px;}
+.thumb{
+	width: auto;
+  	height: 320px;
+	transition: transform 0.8s ease-in-out; 
+}
+.thumb:hover {
+    transform: scale(1.1);
+}
+.infoFlex{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	padding-right: 2%;
+}
+.infoFlex p{
+	font: 200 0.5rem Helvetica;
+	margin: 0.2rem 0;
+	color:  #84ad90;
+}
+.btn{
+	background: none;
+    background-color: transparent;
+    border: none; 
+    padding: 0; 
+    cursor: pointer;
+	border-bottom: 2px solid #a0d1ae;
+	font-size: 0.8rem;
+	margin-top: 1rem;
+}
+.info h2{
+	font: 400 1.5rem Quicksand;
+	margin: 0.5rem 0;
+}
+.info p{
+	font: 200 0.9rem Helvetica;
+	margin: 0.2rem 0;
+}
+
+/*-----------Rezepte Detail----------*/
+.ContRezept{
+	margin: 15vh auto ;
+	width: 80%;
+	height: 100vh;
+	text-align: center;
+}
+.recipeTitle{
+	font: 600 2.5rem Quicksand;
+  	margin: 1%;
+}
+.infoDetails{
+	color: #84ad90;
+	font: 200 0.9rem Helvetica;
+}
+.bigPic{
+	margin: 5% 0 0 ;
+}
+.descript{
+	color:#676875;
+	font: 200 0.8rem Helvetica;
+	max-width: 60%;
+	margin: 0 auto;
+	margin-bottom: 2%;
+}
+.contZuberaitung{
+	width: 85%;
+	margin: 4% auto;
+}
+h3::before {
+    content: '';
+	display: inline-block;
+	width: 2%;
+	height: 2px;
+	background-color: #000;
+	position: absolute;
+	bottom: 12px;
+	left: 0px;
+}
+h3{
+	text-align: left;
+	font: 200 1.2rem Helvetica;
+	position: relative;
+	padding-left: 3.5%;
+}
+
+h3::after {
+    content: '';
+	display: inline-block;
+	width: 85%;
+	height: 2px;
+	background-color: #000;
+	position: absolute;
+	right: 0;
+	bottom: 12px;
+}
+
+.zutatenlist{
+	list-style-type: square;
+	text-align: left;
+	padding: 2%;
+	margin-left: 1%;
+	font: 200 0.9rem Helvetica;
+}
+.zubereitungList{
+	list-style-type: none;
+	text-align: left;
+}
+.text{
+	margin: 2% 0;
+	font: 200 0.9rem Helvetica;
+}
+
+.containerTipp{
+	text-align: left;
+	width: 85%;
+	background-color: rgba(228, 228, 228, 0.5);
+	padding: 2% 0 4% 1%;
+	margin: auto auto;
+	margin-bottom: 5% ;
+}
+h4{ margin-bottom: 1%;}
+.containerTipp p{
+	font: 200 0.9rem Helvetica;
+}
+
+.printBtn{
+	margin-bottom: 5%;
+	background-color: #84ad90;
+	font: 200 0.9rem Helvetica;
+	color: white;
+	border: none;
+	padding: 1%;
+	border-radius: 5px;
+	margin-right: 2%;
+	min-width: 15%;
+}
+.printBtn:hover{
+	background-color: #a0d1ae;
+}

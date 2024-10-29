@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Neues Rezept</title>
+        <link rel="stylesheet" href="./assets/backend/css/styles.css" />
+        
+        <script src="./assets/backend/js/index.js" type="module" defer></script>
+    </head>
+    <body>
+        
+        <main>
+            <h1>Rezepte ohne Grenze</h1>
+            <div id="Contformular">
+                <h2>Neues Rezept</h2>
+                <form id="recipeForm">
+                    <div class="first">
+                        <label for="name">Name:</label>
+                        <input type="text" id="name" name="name" required><br>
+                        <label for="zubereitungszeit">Zubereitungszeit:</label>
+                        <input type="text" id="time" name="time" placeholder="1 Stunde 30 min" required><br>
+                        <label for="land">Land:</label>
+                        <input type="text" id="country" name="country" required><br>    
+                        <div>
+                            <label for="schwierigkeit">Schwierigkeit:</label>
+                             <select id="schwierigkeit" name="schwierigkeit" required>
+                                 <option value="Einfach">Einfach</option>
+                                 <option value="Mittel">Mittel</option>
+                                 <option value="Schwierig">Schwierig</option>
+                             </select> 
+                         </div>
+                    </div>
+                    <div class="border">
+                        <label for="zutaten">Zutaten:</label>
+                        <span>*Bitte geben Sie jeden Zutat gefolgt von einem Komma ein, wie im Beispiel angegeben.</span>
+                        <textarea id="ingredient" name="ingredient" placeholder="bsp:500 g Schweinefleisch (z.B. Schulter oder Nacken)," rows="4" cols="50" required></textarea><br><br>
+                        
+                    <!--<div class="flex">
+                            <button class="SendBtn" type="button" id="addIngredient">Zutat hinzufügen</button><br>    
+                        </div>
+                        <ul id="ingredientList"></ul>-->
+                    </div>
+                    <div class="border">
+                        <label for="Zubereitung">Zubereitung:</label>
+                        <span>*Bitte geben Sie jeden Schritt gefolgt von einem Komma ein, wie im Beispiel angegeben.</span>
+                        <textarea id="Zubereitung" name="Zubereitung" placeholder="1. Marinade vorbereiten: Die eingeweichten Chilis abtropfen lassen und zusammen mit ...,", rows="4" cols="50" required></textarea><br><br>
+                        <!--<div class="flex">
+                            <button class="SendBtn" type="button" id="addZubereitung">Schritt hinzufügen</button><br>    
+                        </div>
+                        <ul id="zubereitungList"></ul>-->
+                    </div>
+                    <div class="contAtr" >
+                        <div>
+                            <label for="attribute">Kategorien:</label><br>    
+                        </div>
+                        <div class="attribute">
+                            <div>
+                                <input type="checkbox" id="beilagen" name="attribute" value="Beilagen">
+                                <label for="beilagen">Beilagen</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="kuchen" name="attribute" value="Kuchen">
+                                <label for="kuchen">Kuchen</label><br>    
+                            </div>
+                            <div>	
+                                <input type="checkbox" id="glutenfrei" name="attribute" value="Glutenfrei">
+                                <label for="glutenfrei">Glutenfrei</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="deutscheKueche" name="attribute" value="Deutsche Küche">
+                                <label for="deutscheKueche">Deutsche Küche</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="sandwiches" name="attribute" value="Sandwiches">
+                                <label for="sandwiches">Sandwiches</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="portugiesischeKueche" name="attribute" value="Portugiesische Küche">
+                                <label for="portugiesischeKueche">Portugiesische Küche</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="fleisch" name="attribute" value="Fleisch">
+                                <label for="fleisch">Fleisch</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="salate" name="attribute" value="Salate">
+                                <label for="salate">Salate</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="pasta" name="attribute" value="Pasta">
+                                <label for="pasta">Pasta</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="suppen" name="attribute" value="Suppen">
+                                <label for="suppen">Suppen</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="kalteGerichte" name="attribute" value="Kalte Gerichte">
+                                <label for="kalteGerichte">Kalte Gerichte</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="mexikanischeKueche" name="attribute" value="Mexikanische Küche">
+                                <label for="mexikanischeKueche">Mexikanische Küche</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="vorspeisen" name="attribute" value="Vorspeisen">
+                                <label for="vorspeisen">Vorspeisen</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="fisch" name="attribute" value="Fisch">
+                                <label for="fisch">Fisch</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="vegetarisch" name="attribute" value="Vegetarisch">
+                                <label for="vegetarisch">Vegetarisch</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="tapas" name="attribute" value="Tapas">
+                                <label for="tapas">Tapas</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="spanischeKueche" name="attribute" value="Spanische Küche">
+                                <label for="spanischeKueche">Spanische Küche</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="abendessen" name="attribute" value="Abendessen">
+                                <label for="abendessen">Abendessen</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="backen" name="attribute" value="Backen">
+                                <label for="backen">Backen</label><br>
+                            </div>
+                            <div>
+                                <input type="checkbox" id="reisgerichte" name="attribute" value="Reisgerichte">
+                                <label for="reisgerichte">Reisgerichte</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="italienischeKueche" name="attribute" value="Italienische Küche">
+                                <label for="italienischeKueche">Italienische Küche</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="mittagessen" name="attribute" value="Mittagessen">
+                                <label for="mittagessen">Mittagessen</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="desserts" name="attribute" value="Desserts">
+                                <label for="desserts">Desserts</label><br>  
+                            </div>
+                            <div>
+                                <input type="checkbox" id="asiatischeKueche" name="attribute" value="asiatische Küche">
+                                <label for="asiatischeKueche">asiatische Küche</label><br>   
+                            </div>
+                            <div>
+                                <input type="checkbox" id="fruehstueck" name="attribute" value="Frühstück">
+                                <label for="fruehstueck">Frühstück</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="meeresfruechte" name="attribute" value="Meeresfrüchte">
+                                <label for="meeresfruechte">Meeresfrüchte</label><br>    
+                            </div>
+                            <div>
+                                <input type="checkbox" id="kartoffeln" name="attribute" value="Kartoffeln">
+                                <label for="kartoffeln">Kartoffeln</label><br>  
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="beschreibung">Beschreibung:</label><br>
+                        <textarea id="beschreibung" name="beschreibung" rows="4" cols="50" required></textarea><br><br>
+                    </div>
+                    <div class="picture">
+                        <label for="bild">Bild:</label><br>
+                        <input type="file" id="bild" name="bild" accept="image/*" required><br><br>
+                    </div>
+                    <div class="form-group">
+                        <label for="tipp">Tipp:</label><br>
+                        <textarea id="tipp" name="tipp" rows="4" cols="50"></textarea><br><br>
+                    </div>
+                    <div class="flex">
+                        <button class="SendBtn" type="submit">Rezept hinzufügen</button>    
+                    </div>
+                    
+            </form>
+
+            </div>
+        </main>
+        
+    </body>
+</html>
