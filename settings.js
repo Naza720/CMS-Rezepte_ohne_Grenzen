@@ -5,6 +5,4 @@ const settings = {
     pfadRecipes : 'data/content.json',
     data: []
 }
-
-
 export default settings;
