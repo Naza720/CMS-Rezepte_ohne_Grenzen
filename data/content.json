@@ -1,0 +1,1623 @@
+[
+  {
+    "name": "Tacos al Pastor",
+    "zubereitungszeit": "45 min",
+    "land": "Mexiko",
+    "zutaten": [
+      "500 g Schweinefleisch (z.B. Schulter oder Nacken)",
+      "2 Ananasscheiben (frisch oder aus der Dose)",
+      "2-3 Knoblauchzehen, fein gehackt",
+      "1 Zwiebel, fein gehackt",
+      "2-3 getrocknete Chilis (z.B. Ancho oder Guajillo), eingeweicht",
+      "1 TL Kreuzkümmel",
+      "1 TL Paprikapulver (süß)",
+      "1 TL getrockneter Oregano",
+      "1/2 TL Nelkenpulver",
+      "1 TL Salz",
+      "1 TL Pfeffer",
+      "1-2 EL Apfelessig",
+      "2 EL Pflanzenöl",
+      "1-2 TL Zucker (nach Geschmack)",
+      "Koriander, frisch gehackt (zum Garnieren)",
+      "Limettenscheiben (zum Servieren)",
+      "Maistortillas (zum Servieren)"
+    ],
+    "Zubereitung": [
+      "1. Marinade vorbereiten: Die eingeweichten Chilis abtropfen lassen und zusammen mit Knoblauch, Zwiebel, Kreuzkümmel, Paprikapulver, Oregano, Nelkenpulver, Salz, Pfeffer, Apfelessig und Zucker in einem Mixer oder einer Küchenmaschine zu einer glatten Paste pürieren. Die Marinade in eine große Schüssel geben.",
+      "2. Fleisch marinieren: Das Schweinefleisch in dünne Scheiben schneiden und in die Marinade geben. Alles gut vermengen, sodass das Fleisch vollständig bedeckt ist. Abdecken und im Kühlschrank mindestens 4 Stunden, besser über Nacht, marinieren lassen.",
+      "3. Fleisch grillen: Das Fleisch auf einem Grill oder in einer Grillpfanne bei mittlerer bis hoher Hitze grillen, bis es gut durchgegart und leicht angebräunt ist. Das Fleisch dabei regelmäßig wenden. Alternativ kann das Fleisch auch im Ofen bei 200°C (Ober-/Unterhitze) etwa 20-25 Minuten gegart werden.",
+      "4. Ananas vorbereiten: Die Ananasscheiben in kleine Stücke schneiden und auf dem Grill oder in einer Grillpfanne leicht anbraten, bis sie goldbraun sind und etwas karamellisieren.",
+      "5. Tacos zusammenstellen: Die Maistortillas kurz in einer Pfanne oder auf dem Grill erwärmen. Das gegrillte Fleisch in dünne Stücke schneiden und zusammen mit den gebratenen Ananasstücken in die Tortillas geben.",
+      "6. Garnieren und Servieren: Die Tacos mit frisch gehacktem Koriander bestreuen. Mit Limettenscheiben servieren, die über die Tacos gepresst werden können."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Glutenfrei",
+      "Mexikanische Küche",
+      "Fleisch",
+      "Abendessen",
+      "Mittagessen"
+    ],
+    "beschreibung": "Diese berühmten Tacos der mexikanischen Küche kombinieren die Saftigkeit des marinierten und gegrillten Schweinefleisches mit der Süße der Ananas, serviert in Maistortillas.",
+    "bild": "assets/frontend/img/Firefly_Tacos.jpg",
+    "tipp": "Für zusätzlichen Geschmack können Sie die Tacos noch mit Salsa, fein gewürfelten Zwiebeln und frischem Koriander garnieren. Eine scharfe Salsa oder Guacamole passt ebenfalls hervorragend dazu."
+  },
+  {
+    "name": "Paella",
+    "zubereitungszeit": "1 Stunde 30 min",
+    "land": "Spanien",
+    "zutaten": [
+      "300 g Reis (Bomba-Reis oder eine ähnliche Sorte)",
+      "400 g Huhn (in Stücke geschnitten)",
+      "300 g Kaninchen (in Stücke geschnitten)",
+      "200 g grüne Bohnen",
+      "2 Tomaten (gehackt)",
+      "1 TL Safranfäden",
+      "4 EL Olivenöl",
+      "1 l Hühnerbrühe",
+      "Salz (nach Geschmack)",
+      "Pfeffer (nach Geschmack)"
+    ],
+    "Zubereitung": [
+      "1. Fleisch anbraten: Das Huhn und Kaninchen in einer großen Paellapfanne mit Olivenöl bei mittlerer Hitze anbraten, bis sie goldbraun sind. Mit Salz und Pfeffer würzen.",
+      "2. Gemüse hinzufügen: Die gehackten Tomaten und grünen Bohnen zum Fleisch geben und alles zusammen für einige Minuten anbraten, bis das Gemüse weich ist.",
+      "3. Reis und Safran einrühren: Den Reis gleichmäßig in der Pfanne verteilen und den Safran dazugeben. Alles gut verrühren, damit der Reis das Öl und die Aromen aufnimmt.",
+      "4. Brühe hinzufügen: Die Hühnerbrühe in die Pfanne gießen und zum Kochen bringen. Die Hitze reduzieren und die Paella bei schwacher Hitze köcheln lassen, bis der Reis die Brühe vollständig aufgenommen hat und gar ist. Dies dauert etwa 20-25 Minuten.",
+      "5. Paella ruhen lassen: Die Pfanne vom Herd nehmen und die Paella für einige Minuten ruhen lassen, bevor sie serviert wird. Dies hilft, die Aromen zu intensivieren."
+    ],
+    "schwierigkeit": "Schwierig",
+    "attribute": [
+      "Spanische Küche",
+      "Reisgerichte",
+      "Fleisch",
+      "Abendessen",
+      "Mittagessen"
+    ],
+    "beschreibung": "Paella ist ein traditionelles spanisches Gericht, das Reis, Fleisch und Gemüse kombiniert, alles langsam mit dem einzigartigen Aroma von Safran gekocht.",
+    "bild": "assets/frontend/img/Firefly_Paella.jpg",
+    "tipp": "Für eine authentische Paella sollte der Reis in einer dünnen Schicht in der Pfanne verteilt sein, sodass er gleichmäßig kocht. Vermeiden Sie es, die Paella während des Kochens umzurühren, damit sich am Boden eine köstliche Kruste (Socarrat) bildet."
+  },
+  {
+    "name": "Bratwurst mit Sauerkraut",
+    "zubereitungszeit": "30 min",
+    "land": "Deutschland",
+    "zutaten": [
+      "4 Bratwürste",
+      "400 g Sauerkraut",
+      "500 g Kartoffeln",
+      "1 Zwiebel",
+      "2 EL Butter",
+      "Salz (nach Geschmack)",
+      "Pfeffer (nach Geschmack)",
+      "Senf (zum Servieren)"
+    ],
+    "Zubereitung": [
+      "1. Bratwürste braten: Die Bratwürste in einer Pfanne bei mittlerer Hitze etwa 10-12 Minuten braten, bis sie rundum goldbraun und durchgegart sind. Gelegentlich wenden, um ein gleichmäßiges Garen zu gewährleisten.",
+      "2. Sauerkraut erwärmen: Das Sauerkraut in einem Topf bei schwacher Hitze langsam erwärmen. Dabei gelegentlich umrühren. Bei Bedarf etwas Wasser oder Brühe hinzufügen, um es saftig zu halten.",
+      "3. Kartoffelpüree zubereiten: Die Kartoffeln schälen, in Stücke schneiden und in einem Topf mit Salzwasser etwa 15 Minuten kochen, bis sie weich sind. Danach das Wasser abgießen, die Kartoffeln zurück in den Topf geben, Butter hinzufügen und alles zu einem cremigen Püree stampfen. Mit Salz und Pfeffer abschmecken.",
+      "4. Zwiebeln anbraten: Die Zwiebel fein hacken und in einer kleinen Pfanne mit etwas Butter anbraten, bis sie goldbraun und weich ist. Die gebratenen Zwiebeln unter das Sauerkraut mischen.",
+      "5. Servieren: Die Bratwürste mit dem Sauerkraut und dem Kartoffelpüree auf Tellern anrichten. Mit Senf servieren und genießen."
+    ],
+    "schwierigkeit": "Einfach",
+    "attribute": [
+      "Glutenfrei",
+      "Deutsche Küche",
+      "Fleisch",
+      "Abendessen",
+      "Mittagessen"
+    ],
+    "beschreibung": "Bratwurst mit Sauerkraut ist ein klassisches deutsches Gericht, das die herzhafte Wurst mit dem säuerlichen Geschmack von Sauerkraut kombiniert.",
+    "bild": "assets/frontend/img/Firefly_Bratwurst.jpg",
+    "tipp": "Für eine zusätzliche Geschmacksnote können Sie dem Sauerkraut einige Wacholderbeeren oder ein paar Tropfen Apfelessig hinzufügen. Das Kartoffelpüree wird besonders cremig, wenn Sie etwas warme Milch unterrühren."
+  },
+  {
+    "name": "Spaghetti Carbonara",
+    "zubereitungszeit": "25 min",
+    "land": "Italien",
+    "zutaten": [
+      "400 g Spaghetti",
+      "150 g Speck (Pancetta oder Guanciale)",
+      "3 Eier",
+      "100 g Pecorino Romano (gerieben)",
+      "Schwarzer Pfeffer (frisch gemahlen, nach Geschmack)",
+      "Salz (für das Nudelwasser)"
+    ],
+    "Zubereitung": [
+      "1. Spaghetti kochen: Die Spaghetti in einem großen Topf mit gesalzenem Wasser al dente kochen, gemäß den Anweisungen auf der Packung. Vor dem Abgießen etwa eine Tasse des Kochwassers aufbewahren.",
+      "2. Speck anbraten: Den Speck in kleine Würfel schneiden und in einer Pfanne bei mittlerer Hitze anbraten, bis er knusprig und goldbraun ist. Die Pfanne vom Herd nehmen und etwas abkühlen lassen.",
+      "3. Eier und Käse mischen: In einer großen Schüssel die Eier verquirlen und den geriebenen Pecorino Romano untermischen. Mit reichlich frisch gemahlenem schwarzem Pfeffer würzen.",
+      "4. Spaghetti und Speck vermengen: Die abgegossenen Spaghetti sofort in die Pfanne mit dem Speck geben und gut vermischen. Die Pfanne sollte nicht mehr auf der heißen Herdplatte stehen, damit die Eiermischung nicht gerinnt.",
+      "5. Eimischung einrühren: Die Eier-Käse-Mischung über die heißen Spaghetti und den Speck gießen. Schnell umrühren, damit die Eier durch die Restwärme der Pasta zu einer cremigen Sauce binden. Bei Bedarf etwas von dem aufbewahrten Nudelwasser hinzufügen, um die Konsistenz anzupassen.",
+      "6. Servieren: Die Spaghetti Carbonara sofort servieren, mit zusätzlichem Pecorino Romano und frischem Pfeffer nach Belieben garnieren."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Italienische Küche",
+      "Pasta",
+      "Mittagessen",
+      "Abendessen"
+    ],
+    "beschreibung": "Spaghetti Carbonara ist ein cremiges und leckeres italienisches Gericht, das aus Eiern, Pecorino Romano und Pancetta hergestellt wird und perfekt für jede Gelegenheit ist.",
+    "bild": "assets/frontend/img/Spaghetti_Carbonara.jpg",
+    "tipp": "Verwenden Sie unbedingt Pecorino Romano für den authentischen Geschmack. Achten Sie darauf, die Eiermischung nicht direkt in die heiße Pfanne zu geben, um zu vermeiden, dass die Eier stocken."
+  },
+  {
+    "name": "Ceviche",
+    "zubereitungszeit": "30 min",
+    "land": "Peru",
+    "zutaten": [
+      "400 g Weißfisch (z.B. Seezunge, Kabeljau oder Tilapia, in Würfel geschnitten)",
+      "200 ml frischer Limettensaft",
+      "1 rote Zwiebel (in dünne Ringe geschnitten)",
+      "1 Bund Koriander (frisch gehackt)",
+      "1-2 Chilischoten (fein gehackt, je nach Geschmack)",
+      "2 Süßkartoffeln (gekocht und in Scheiben geschnitten)",
+      "Salz (nach Geschmack)",
+      "Pfeffer (nach Geschmack)"
+    ],
+    "Zubereitung": [
+      "1. Fisch marinieren: Den gewürfelten Weißfisch in eine Schüssel geben und mit dem frischen Limettensaft übergießen, sodass der Fisch vollständig bedeckt ist. Mit Salz und Pfeffer würzen. Abdecken und im Kühlschrank etwa 15-20 Minuten marinieren lassen, bis der Fisch durch den Limettensaft 'gegart' ist.",
+      "2. Zutaten vorbereiten: Während der Fisch mariniert, die rote Zwiebel in dünne Ringe schneiden, den Koriander hacken und die Chilischoten fein schneiden. Die Süßkartoffeln schälen, in Scheiben schneiden und kochen, bis sie weich sind.",
+      "3. Alles vermischen: Den marinierten Fisch aus dem Kühlschrank nehmen und die Zwiebeln, den Koriander und die Chilischoten hinzufügen. Alles gut vermengen.",
+      "4. Kalt stellen und servieren: Das Ceviche für einige Minuten kalt stellen, damit sich die Aromen gut verbinden. Mit den gekochten Süßkartoffeln servieren."
+    ],
+    "schwierigkeit": "Einfach",
+    "attribute": [
+      "Glutenfrei",
+      "Kalte Gerichte",
+      "Fisch",
+      "Abendessen",
+      "Meeresfrüchte",
+      "Salate",
+      "Vorspeisen",
+      "Mittagessen"
+    ],
+    "beschreibung": "Ceviche ist ein frisches peruanisches Gericht aus rohem Fisch, der in Limettensaft mariniert und mit Zwiebeln, Koriander und Chilischoten vermischt wird.",
+    "bild": "assets/frontend/img/Ceviche.jpg",
+    "tipp": "Für ein authentisches Ceviche verwenden Sie am besten frisch gepressten Limettensaft und frische Zutaten. Servieren Sie das Gericht sofort nach der Zubereitung, um die Frische zu bewahren. Sie können auch gekochten Mais oder geröstete Maiskörner als Beilage hinzufügen."
+  },
+  {
+    "name": "Guacamole",
+    "zubereitungszeit": "15 min",
+    "land": "Mexiko",
+    "zutaten": [
+      "3 reife Avocados",
+      "1 kleine Zwiebel (fein gehackt)",
+      "1 Tomate (entkernt und fein gewürfelt)",
+      "1 Bund Koriander (frisch gehackt)",
+      "1 Limette (Saft davon)",
+      "Salz (nach Geschmack)",
+      "Pfeffer (nach Geschmack)",
+      "1-2 Chilischoten (optional, fein gehackt für mehr Schärfe)"
+    ],
+    "Zubereitung": [
+      "1. Avocados vorbereiten: Die Avocados halbieren, den Kern entfernen und das Fruchtfleisch mit einem Löffel herauskratzen. Das Fruchtfleisch in eine Schüssel geben und mit einer Gabel oder einem Kartoffelstampfer zerdrücken, bis eine cremige Konsistenz erreicht ist. Einige Stücke dürfen gerne grob bleiben für mehr Textur.",
+      "2. Zutaten hinzufügen: Die fein gehackte Zwiebel, die gewürfelte Tomate, den frisch gehackten Koriander und den Limettensaft zu den Avocados geben. Alles gut vermischen.",
+      "3. Abschmecken: Die Guacamole mit Salz, Pfeffer und optional etwas gehackter Chili abschmecken. Nochmals gut umrühren.",
+      "4. Servieren: Die Guacamole sofort servieren. Sie passt perfekt zu Tortillachips, als Brotaufstrich oder als Beilage zu verschiedenen Gerichten."
+    ],
+    "schwierigkeit": "Einfach",
+    "attribute": [
+      "Vegan",
+      "Kalte Gerichte",
+      "Glutenfrei",
+      "Mexikanische Küche",
+      "Vorspeisen",
+      "Beilagen",
+      "Abendessen",
+      "Frühstück"
+    ],
+    "beschreibung": "Guacamole ist ein klassischer mexikanischer Dip, der aus zerdrückten Avocados, Zwiebeln, Tomaten und Koriander mit einem Spritzer Limettensaft hergestellt wird.",
+    "bild": "assets/frontend/img/Firefly_guacamole.jpg",
+    "tipp": "Für eine besonders cremige Guacamole wählen Sie reife Avocados aus. Um die Guacamole länger frisch zu halten, legen Sie den Avocadokern in die Schüssel und bedecken Sie sie mit Frischhaltefolie, sodass die Folie direkt auf der Oberfläche der Guacamole liegt. So verhindert man, dass sie braun wird."
+  },
+  {
+    "name": "Gazpacho",
+    "zubereitungszeit": "20 min",
+    "land": "Spanien",
+    "zutaten": [
+      "6 reife Tomaten",
+      "1 Gurke (geschält und entkernt)",
+      "1 rote Paprika",
+      "1 kleine Zwiebel",
+      "2 Knoblauchzehen",
+      "3 EL Weinessig",
+      "100 ml Olivenöl",
+      "Salz (nach Geschmack)",
+      "Pfeffer (nach Geschmack)",
+      "Optional: 1 Scheibe altbackenes Brot (für eine cremigere Konsistenz)"
+    ],
+    "Zubereitung": [
+      "1. Gemüse vorbereiten: Die Tomaten, Gurke, Paprika, Zwiebel und Knoblauch grob hacken. Wenn verwendet, das Brot in kleine Stücke reißen.",
+      "2. Pürieren: Alle vorbereiteten Zutaten zusammen mit dem Brot (falls verwendet) in einen Mixer geben und zu einer glatten, homogenen Mischung pürieren.",
+      "3. Abschmecken: Weinessig und Olivenöl hinzufügen. Mit Salz und Pfeffer nach Geschmack würzen. Nochmals gut durchmixen, um die Aromen zu kombinieren.",
+      "4. Kaltstellen: Das Gazpacho in eine Schüssel oder einen Behälter umfüllen und mindestens 1 Stunde im Kühlschrank kalt stellen, damit die Aromen gut durchziehen.",
+      "5. Servieren: Das Gazpacho gut gekühlt servieren. Optional können Sie es mit zusätzlichen Olivenöltröpfchen, gehacktem Koriander oder frischen Gemüsestückchen garnieren."
+    ],
+    "schwierigkeit": "Einfach",
+    "attribute": [
+      "Vegan",
+      "Kalte Gerichte",
+      "Glutenfrei",
+      "Spanische Küche",
+      "Suppen",
+      "Vorspeisen",
+      "Beilagen",
+      "Mittagessen",
+      "Abendessen"
+    ],
+    "beschreibung": "Gazpacho ist eine kalte spanische Suppe, die aus frischen Tomaten, Gurken, Paprika, Zwiebeln und Knoblauch zubereitet und mit Essig und Olivenöl abgeschmeckt wird.",
+    "bild": "assets/frontend/img/Firefly_gazpacho.jpg",
+    "tipp": "Für eine besonders glatte Konsistenz können Sie das Gazpacho durch ein feines Sieb passieren. Um dem Gazpacho mehr Textur zu verleihen, können Sie es mit kleinen Würfeln von frischem Gemüse garnieren oder Croutons dazu servieren."
+  },
+  {
+    "name": "Schwarzwälder Kirschtorte",
+    "zubereitungszeit": "2 Stunden",
+    "land": "Deutschland",
+    "zutaten": [
+      "200 g Mehl",
+      "4 Eier",
+      "200 g Zucker",
+      "50 g Kakaopulver",
+      "400 ml Sahne",
+      "1 Glas Kirschen (abgetropft)",
+      "4-6 EL Kirschwasser",
+      "2 TL Backpulver",
+      "1 Prise Salz",
+      "Schokoladenraspel (zum Dekorieren, optional)",
+      "Zucker (nach Geschmack, für die Sahne)"
+    ],
+    "Zubereitung": [
+      "1. Biskuitteig vorbereiten: Den Ofen auf 180°C vorheizen. Eier mit Zucker und einer Prise Salz schaumig schlagen. Mehl, Kakaopulver und Backpulver mischen und vorsichtig unter die Eimasse heben.",
+      "2. Backen: Den Teig in eine gefettete Springform füllen und im vorgeheizten Ofen etwa 25-30 Minuten backen. Auskühlen lassen und in drei gleichmäßige Schichten schneiden.",
+      "3. Sahne schlagen: Sahne steif schlagen und nach Belieben mit etwas Zucker süßen.",
+      "4. Kirschen vorbereiten: Die Kirschen abtropfen lassen. Falls gewünscht, einen Teil der Kirschen in kleine Stücke schneiden.",
+      "5. Torte schichten: Jede Biskuitschicht mit Kirschwasser beträufeln. Eine Schicht Sahne auf die erste Biskuitschicht streichen und mit Kirschen belegen. Diesen Vorgang mit den weiteren Schichten wiederholen.",
+      "6. Dekorieren: Die oberste Schicht der Torte ebenfalls mit Sahne bestreichen und nach Belieben mit Kirschen und Schokoladenraspeln dekorieren.",
+      "7. Kalt stellen: Die Torte für mindestens 1-2 Stunden im Kühlschrank kühlen, damit sich die Aromen verbinden und die Torte fest wird."
+    ],
+    "schwierigkeit": "Schwierig",
+    "attribute": [
+      "Desserts",
+      "Deutsche Küche",
+      "Kuchen",
+      "Backen",
+      "Süßigkeiten",
+      "Frühstück"
+    ],
+    "beschreibung": "Die Schwarzwälder Kirschtorte ist ein klassischer deutscher Kuchen, bestehend aus Schokoladenbiskuit, Kirschwasser, Sahne und Kirschen, geschichtet und wunderschön dekoriert.",
+    "bild": "assets/frontend/img/Firefly_Schwarzwaelder_Kirschtorte.jpg",
+    "tipp": "Achten Sie darauf, den Biskuit vollständig auskühlen zu lassen, bevor Sie ihn in Schichten schneiden, um ein Zerbrechen zu vermeiden. Verwenden Sie hochwertige Sahne und Kirschwasser für einen besonders intensiven Geschmack."
+  },
+  {
+    "name": "Huevos Rancheros",
+    "zubereitungszeit": "25 min",
+    "land": "Mexiko",
+    "zutaten": [
+      "4 Eier",
+      "4 Maistortillas",
+      "4 Tomaten (gehackt)",
+      "1 Zwiebel (fein gehackt)",
+      "2 Knoblauchzehen (fein gehackt)",
+      "2-3 Chilischoten (nach Geschmack, fein gehackt)",
+      "1 Bund Koriander (frisch gehackt)",
+      "Olivenöl (zum Braten)",
+      "Salz (nach Geschmack)",
+      "Pfeffer (nach Geschmack)"
+    ],
+    "Zubereitung": [
+      "1. Sauce vorbereiten: In einer Pfanne etwas Olivenöl erhitzen. Zwiebeln und Knoblauch darin anbraten, bis sie weich sind. Die gehackten Tomaten und Chilischoten hinzufügen und etwa 10 Minuten köcheln lassen, bis die Sauce etwas eingedickt ist. Mit Salz und Pfeffer abschmecken.",
+      "2. Eier braten: In einer separaten Pfanne etwas Olivenöl erhitzen und die Eier nach Wunsch braten (Spiegeleier oder Rührei).",
+      "3. Tortillas erwärmen: Die Maistortillas in einer trockenen Pfanne oder auf dem Grill erwärmen, bis sie leicht knusprig sind.",
+      "4. Anrichten: Die warmen Tortillas auf Teller legen. Die Tomatensauce gleichmäßig auf die Tortillas verteilen. Je ein gebratenes Ei auf jede Tortilla legen.",
+      "5. Garnieren: Die Huevos Rancheros mit frisch gehacktem Koriander bestreuen und nach Belieben mit zusätzlichen Zutaten wie Avocado oder Salsa servieren."
+    ],
+    "schwierigkeit": "Einfach",
+    "attribute": [
+      "Vegetarisch",
+      "Mexikanische Küche",
+      "Frühstück"
+    ],
+    "beschreibung": "Huevos Rancheros sind ein traditionelles mexikanisches Frühstücksgericht, bestehend aus Spiegeleiern auf Maistortillas, überzogen mit einer würzigen Tomatensauce.",
+    "bild": "assets/frontend/img/Huevos_Rancheros.jpg",
+    "tipp": "Für zusätzlichen Geschmack können Sie die Sauce mit geräuchertem Paprika oder Kreuzkümmel würzen. Servieren Sie die Huevos Rancheros mit frischem Koriander und warmen Tortillas für ein authentisches Erlebnis."
+  },
+  {
+    "name": "Pizza Margherita",
+    "zubereitungszeit": "1 Stunde",
+    "land": "Italien",
+    "zutaten": [
+      "1 Pizzateig (fertig oder selbstgemacht)",
+      "400 g Tomaten (frisch oder aus der Dose)",
+      "200 g Mozzarella (in Scheiben)",
+      "1 Bund frisches Basilikum",
+      "2-3 EL Olivenöl",
+      "1 TL Salz",
+      "1/2 TL schwarzer Pfeffer"
+    ],
+    "Zubereitung": [
+      "1. Pizzateig vorbereiten: Den Pizzateig auf einer bemehlten Arbeitsfläche ausrollen, bis er die gewünschte Größe hat. Auf ein mit Backpapier belegtes Blech legen.",
+      "2. Tomatensauce zubereiten: Die Tomaten pürieren und mit Salz und Pfeffer abschmecken. Die Tomatensauce gleichmäßig auf den ausgerollten Teig streichen.",
+      "3. Mozzarella hinzufügen: Die Mozzarella-Scheiben gleichmäßig auf der Tomatensauce verteilen.",
+      "4. Backen: Die Pizza im vorgeheizten Ofen bei 220°C (Ober-/Unterhitze) etwa 15-20 Minuten backen, bis der Teig goldbraun und der Käse geschmolzen ist.",
+      "5. Garnieren und Servieren: Nach dem Backen die Pizza mit frischem Basilikum bestreuen und mit etwas Olivenöl beträufeln. In Stücke schneiden und heiß servieren."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Italienische Küche",
+      "Vegetarisch",
+      "Mittagessen",
+      "Abendessen"
+    ],
+    "beschreibung": "Pizza Margherita ist ein klassisches italienisches Gericht, das aus einem dünnen Pizzateig, frischer Tomatensauce, Mozzarella und Basilikum besteht.",
+    "bild": "assets/frontend/img/Pizza_Margherita.jpg",
+    "tipp": "Für einen extra knusprigen Boden können Sie den Pizzateig vorab bei 220°C für 5 Minuten vorbacken, bevor Sie die Tomatensauce und den Käse hinzufügen."
+  },
+  {
+    "name": "Tiramisu",
+    "zubereitungszeit": "4 Stunden (inkl. Kühlzeit)",
+    "land": "Italien",
+    "zutaten": [
+      "300 g Löffelbiskuits",
+      "500 g Mascarpone",
+      "250 ml starker Kaffee (abgekühlt)",
+      "2 EL Kakaopulver",
+      "4 Eier (getrennt)",
+      "100 g Zucker"
+    ],
+    "Zubereitung": [
+      "1. Kaffee vorbereiten: Den Kaffee abkühlen lassen.",
+      "2. Eier trennen: Eigelb mit Zucker in einer Schüssel cremig schlagen, bis die Mischung hell und dick ist. Mascarpone unterrühren, bis die Creme glatt ist.",
+      "3. Eiweiß schlagen: Das Eiweiß in einer separaten Schüssel steif schlagen und vorsichtig unter die Mascarponecreme heben.",
+      "4. Löffelbiskuits vorbereiten: Die Löffelbiskuits kurz in den abgekühlten Kaffee tauchen, sodass sie leicht feucht, aber nicht durchweicht sind.",
+      "5. Schichten: Eine Schicht Löffelbiskuits auf den Boden einer Auflaufform legen. Eine Schicht Mascarponecreme darauf verteilen. Diesen Vorgang wiederholen, bis alle Zutaten aufgebraucht sind.",
+      "6. Kühlen: Das Tiramisu für mindestens 4 Stunden (idealerweise über Nacht) im Kühlschrank kalt stellen, damit die Aromen gut durchziehen.",
+      "7. Servieren: Vor dem Servieren das Tiramisu mit Kakaopulver bestäuben."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Desserts",
+      "Italienische Küche",
+      "Süßigkeiten"
+    ],
+    "beschreibung": "Tiramisu ist ein berühmtes italienisches Dessert, das aus Schichten von in Kaffee getränkten Löffelbiskuits und einer Mascarponecreme besteht, bestäubt mit Kakaopulver.",
+    "bild": "assets/frontend/img/Tiramisu.jpg",
+    "tipp": "Für ein intensiveres Aroma können Sie den Kaffee mit einem Schuss Amaretto oder Rum verfeinern. Verwenden Sie frische Mascarpone für eine besonders cremige Konsistenz."
+  },
+  {
+    "name": "Miso-Suppe",
+    "zubereitungszeit": "15 min",
+    "land": "Japan",
+    "zutaten": [
+      "4 EL Miso-Paste",
+      "200 g Tofu (gewürfelt)",
+      "1 Handvoll Wakame-Algen (getrocknet)",
+      "2 Frühlingszwiebeln (in Ringe geschnitten)",
+      "750 ml Dashi-Brühe",
+      "1 TL Sojasauce (optional)"
+    ],
+    "Zubereitung": [
+      "1. Brühe vorbereiten: Die Dashi-Brühe in einem Topf zum Kochen bringen.",
+      "2. Miso-Paste einrühren: Die Miso-Paste in die kochende Brühe einrühren, bis sie sich vollständig aufgelöst hat. Achten Sie darauf, die Brühe nicht mehr zu kochen, nachdem das Miso hinzugefügt wurde, um den Geschmack nicht zu verlieren.",
+      "3. Tofu hinzufügen: Den Tofu in die Suppe geben und einige Minuten erhitzen, bis er warm ist.",
+      "4. Wakame-Algen einweichen: Die getrockneten Wakame-Algen nach Packungsanweisung einweichen und in die Suppe geben.",
+      "5. Garnieren: Mit gehackten Frühlingszwiebeln garnieren und gegebenenfalls mit etwas Sojasauce abschmecken.",
+      "6. Servieren: Die Suppe heiß servieren."
+    ],
+    "schwierigkeit": "Einfach",
+    "attribute": [
+      "Vegan",
+      "Glutenfrei",
+      "Suppen",
+      "Vorspeisen",
+      "Asiatische Küche",
+      "Mittagessen",
+      "Abendessen"
+    ],
+    "beschreibung": "Miso-Suppe ist eine traditionelle japanische Suppe, die aus einer Dashi-Brühe, Miso-Paste, Tofu und Wakame-Algen besteht und oft als Vorspeise serviert wird.",
+    "bild": "assets/frontend/img/Miso_Suppe.jpg",
+    "tipp": "Die Miso-Suppe kann nach Belieben mit weiteren Zutaten wie Pilzen, Babymais oder Spinat ergänzt werden. Achten Sie darauf, die Suppe nicht zu lange zu kochen, nachdem das Miso hinzugefügt wurde, um den vollen Geschmack zu erhalten."
+  },
+  {
+    "name": "Falafel",
+    "zubereitungszeit": "40 min",
+    "land": "Libanon",
+    "zutaten": [
+      "250 g Kichererbsen (getrocknet, über Nacht eingeweicht)",
+      "1 Zwiebel (fein gehackt)",
+      "2-3 Knoblauchzehen (fein gehackt)",
+      "1 Bund Koriander (frisch, gehackt)",
+      "1 TL Kreuzkümmel (gemahlen)",
+      "1 Bund Petersilie (frisch, gehackt)",
+      "Salz und Pfeffer nach Geschmack",
+      "Öl zum Frittieren"
+    ],
+    "Zubereitung": [
+      "1. Kichererbsen gut abtropfen lassen und in einem Mixer pürieren, bis eine grobe Paste entsteht.",
+      "2. Zwiebeln, Knoblauch, Koriander, Petersilie und Kreuzkümmel zur Kichererbsenpaste hinzufügen. Mit Salz und Pfeffer abschmecken.",
+      "3. Die Mischung gut durchmischen und kleine Bällchen formen.",
+      "4. Öl in einem Topf oder einer Fritteuse erhitzen. Die Falafel-Bällchen in das heiße Öl geben und frittieren, bis sie goldbraun und knusprig sind.",
+      "5. Falafel auf Küchenpapier abtropfen lassen und warm servieren, idealerweise mit Hummus oder Tahini."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Vegan",
+      "Glutenfrei",
+      "Vorspeisen",
+      "Kalte Gerichte",
+      "Beilagen",
+      "Vegetarisch",
+      "Mittagessen",
+      "Abendessen"
+    ],
+    "beschreibung": "Falafel sind frittierte Bällchen aus pürierten Kichererbsen, Kräutern und Gewürzen, die oft in Fladenbrot serviert oder als Beilage zu anderen Gerichten gereicht werden.",
+    "bild": "assets/frontend/img/Falafel.jpg",
+    "tipp": "Achten Sie darauf, die Kichererbsen vor dem Pürieren gut abtropfen zu lassen, um eine ideale Konsistenz für die Falafel zu erreichen."
+  },
+  {
+    "name": "Chili con Carne",
+    "zubereitungszeit": "1 Stunde",
+    "land": "USA",
+    "zutaten": [
+      "500 g Rindfleisch (gehackt)",
+      "1 Dose (400 g) Bohnen (nach Wahl, z.B. Kidneybohnen, abgetropft)",
+      "400 g Tomaten (aus der Dose oder frisch, gehackt)",
+      "1 Zwiebel (fein gehackt)",
+      "2-3 Knoblauchzehen (fein gehackt)",
+      "2-3 Chilischoten (nach Geschmack, fein gehackt)",
+      "1 TL Kreuzkümmel (gemahlen)",
+      "1 TL Paprikapulver",
+      "Salz und Pfeffer nach Geschmack",
+      "1 EL Öl zum Braten"
+    ],
+    "Zubereitung": [
+      "1. Öl in einem großen Topf erhitzen. Das Rindfleisch darin anbraten, bis es braun ist.",
+      "2. Zwiebeln und Knoblauch hinzufügen und anbraten, bis sie weich sind.",
+      "3. Chilischoten, Kreuzkümmel und Paprikapulver hinzufügen und kurz anrösten.",
+      "4. Tomaten und Bohnen einrühren und gut vermengen.",
+      "5. Das Chili bei schwacher Hitze 30-45 Minuten köcheln lassen, bis es dickflüssig und gut durchgezogen ist. Nach Belieben mit Salz und Pfeffer abschmecken.",
+      "6. Mit Reis oder Brot servieren."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Fleisch",
+      "Abendessen",
+      "Mexikanische Küche",
+      "Reisgerichte",
+      "Mittagessen"
+    ],
+    "beschreibung": "Chili con Carne ist ein herzhaftes Gericht aus gewürztem Rindfleisch, Bohnen und Tomaten, das langsam gekocht und traditionell mit Reis oder Brot serviert wird.",
+    "bild": "assets/frontend/img/Chili_con_Carne.jpg",
+    "tipp": "Für zusätzlichen Geschmack können Sie das Chili mit einem Schuss Rotwein oder einem Teelöffel Kakaopulver verfeinern."
+  },
+  {
+    "name": "Butter Chicken",
+    "zubereitungszeit": "1 Stunde",
+    "land": "Indien",
+    "zutaten": [
+      "500 g Hähnchenbrust (in Stücke geschnitten)",
+      "400 g Tomaten (gehackt)",
+      "200 g Joghurt",
+      "50 g Butter",
+      "1 TL Garam Masala",
+      "2-3 Knoblauchzehen (fein gehackt)",
+      "1 TL Kreuzkümmel (gemahlen)",
+      "1 TL Paprikapulver",
+      "Salz und Pfeffer nach Geschmack",
+      "Koriander zur Garnitur"
+    ],
+    "Zubereitung": [
+      "1. Hähnchenbruststücke in Joghurt und 1 TL Garam Masala marinieren und mindestens 30 Minuten ziehen lassen.",
+      "2. Butter in einer Pfanne erhitzen und den Knoblauch darin anbraten, bis er aromatisch ist.",
+      "3. Die gehackten Tomaten hinzufügen und köcheln lassen, bis sie sich zu einer Sauce reduziert haben.",
+      "4. Das marinierte Hähnchen in die Sauce geben und gut durchbraten. Mit Kreuzkümmel, Paprikapulver, Garam Masala, Salz und Pfeffer würzen.",
+      "5. Alles zusammen 20-30 Minuten köcheln lassen, bis das Hähnchen durchgegart und die Sauce cremig ist.",
+      "6. Mit frischem Koriander garnieren und mit Reis servieren."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Fleisch",
+      "Abendessen",
+      "asiatische Küche",
+      "Reisgerichte",
+      "Mittagessen"
+    ],
+    "beschreibung": "Butter Chicken ist ein beliebtes indisches Gericht, bei dem Hähnchenstücke in einer cremigen Tomatensauce mit Joghurt und aromatischen Gewürzen geschmort werden.",
+    "bild": "assets/frontend/img/Butter_Chicken.jpg",
+    "tipp": "Für ein besonders zartes Hähnchen lassen Sie es länger marinieren. Sie können auch etwas Sahne hinzufügen, um die Sauce noch cremiger zu machen."
+  },
+  {
+    "name": "Shakshuka",
+    "zubereitungszeit": "30 min",
+    "land": "Tunesien",
+    "zutaten": [
+      "400 g Tomaten (gehackt, aus der Dose oder frisch)",
+      "1 Paprika (rot oder grün, gewürfelt)",
+      "1 Zwiebel (gewürfelt)",
+      "2-3 Knoblauchzehen (fein gehackt)",
+      "4-6 Eier",
+      "1 TL Kreuzkümmel (gemahlen)",
+      "Olivenöl",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "Zubereitung": [
+      "1. Olivenöl in einer Pfanne erhitzen und die Zwiebeln sowie den Knoblauch anbraten, bis sie weich sind.",
+      "2. Paprika hinzufügen und weitere 5 Minuten anbraten.",
+      "3. Tomaten und Kreuzkümmel dazugeben und die Mischung köcheln lassen, bis die Sauce eingedickt ist.",
+      "4. Mit Salz und Pfeffer abschmecken.",
+      "5. Mit einem Löffel kleine Vertiefungen in der Sauce machen und die Eier vorsichtig hinein schlagen.",
+      "6. Die Pfanne abdecken und die Eier so lange garen, bis sie gestockt sind, aber das Eigelb noch leicht flüssig ist.",
+      "7. Mit Brot servieren."
+    ],
+    "schwierigkeit": "Einfach",
+    "attribute": [
+      "Vegetarisch",
+      "asiatische Küche",
+      "Frühstück",
+      "Glutenfrei"
+    ],
+    "beschreibung": "Shakshuka ist ein herzhaftes Gericht aus pochierten Eiern in einer würzigen Tomaten-Paprika-Sauce, das in Tunesien und anderen Teilen Nordafrikas und des Nahen Ostens beliebt ist.",
+    "bild": "assets/frontend/img/Shakshuka.jpg",
+    "tipp": "Für zusätzlichen Geschmack können Sie einige frische Kräuter wie Koriander oder Petersilie über die Shakshuka streuen."
+  },
+  {
+    "name": "Bacalhau à Brás",
+    "zubereitungszeit": "40 min",
+    "land": "Portugal",
+    "zutaten": [
+      "300 g Kabeljau (gesalzen, eingeweicht und zerkleinert)",
+      "2-3 Kartoffeln (in dünne Streifen geschnitten und frittiert)",
+      "1 Zwiebel (fein gewürfelt)",
+      "4 Eier (geschlagen)",
+      "50 g schwarze Oliven (entsteint)",
+      "1 Bund Petersilie (gehackt)",
+      "Olivenöl",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "Zubereitung": [
+      "1. Kabeljau kochen, abkühlen lassen und in kleine Stücke zerkleinern.",
+      "2. Kartoffeln in dünne Streifen schneiden und in heißem Öl frittieren, bis sie knusprig sind. Abtropfen lassen.",
+      "3. Olivenöl in einer Pfanne erhitzen und die Zwiebeln anbraten, bis sie weich sind.",
+      "4. Den Kabeljau hinzufügen und gut vermengen.",
+      "5. Die frittierten Kartoffeln und die geschlagenen Eier einrühren und alles zusammen weitergaren, bis die Eier gestockt sind.",
+      "6. Mit schwarzen Oliven und gehackter Petersilie garnieren und servieren."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Fisch",
+      "Portugiesische Küche",
+      "Kartoffeln",
+      "Mittagessen",
+      "Abendessen"
+    ],
+    "beschreibung": "Bacalhau à Brás ist ein traditionelles portugiesisches Gericht aus zerkleinertem Kabeljau, frittierten Kartoffeln und Eiern, alles zu einer cremigen Textur vermischt.",
+    "bild": "assets/frontend/img/Firefly_bacalao.jpg",
+    "tipp": "Falls der Kabeljau zu salzig ist, können Sie ihn vor der Zubereitung gründlich wässern, um den Salzgehalt zu reduzieren."
+  },
+  {
+    "name": "Torta de Chorizo Mexicana",
+    "zubereitungszeit": "45 min",
+    "land": "Mexiko",
+    "zutaten": [
+      "Für die Chorizo-Füllung:",
+      "400 g Chorizo (mexikanische Wurst), aus der Haut gedrückt",
+      "1 Zwiebel (gewürfelt)",
+      "2 Knoblauchzehen (fein gehackt)",
+      "1 Paprika (rot oder grün, gewürfelt)",
+      "2 Tomaten (gewürfelt)",
+      "1 TL Kreuzkümmel",
+      "1 TL Paprikapulver",
+      "1/2 TL Chiliflocken (optional, für zusätzliche Schärfe)",
+      "Salz und Pfeffer nach Geschmack",
+      "Für die Tortas:",
+      "4 mexikanische Bolillos oder Ciabatta-Brötchen",
+      "1 Avocado (in Scheiben geschnitten)",
+      "1/2 Kopfsalat (in Streifen geschnitten)",
+      "1 Tomate (in Scheiben geschnitten)",
+      "1/2 Zwiebel (in Ringe geschnitten)",
+      "Frische Korianderblätter (optional)",
+      "Eingelegte Jalapeños (optional)"
+    ],
+    "Zubereitung": [
+      "1. In einer großen Pfanne etwas Öl erhitzen und die Chorizo bei mittlerer Hitze anbraten, bis sie gut gebräunt ist. Die Chorizo aus der Pfanne nehmen und beiseite stellen.",
+      "2. Im verbleibenden Fett Zwiebel, Knoblauch und Paprika anbraten, bis sie weich sind.",
+      "3. Tomaten hinzufügen und kurz mitbraten. Kreuzkümmel, Paprikapulver, Chiliflocken, Salz und Pfeffer einrühren.",
+      "4. Die gebratene Chorizo wieder in die Pfanne geben und alles gut vermengen. Etwa 5-10 Minuten köcheln lassen. Nach Belieben abschmecken.",
+      "5. Während die Chorizo kocht, die Bolillos oder Ciabatta-Brötchen halbieren und leicht rösten.",
+      "6. Die untere Brötchenhälfte mit Avocadoscheiben, Salat, Tomatenscheiben und Zwiebelringen belegen.",
+      "7. Die Chorizo-Mischung auf das Gemüse geben und nach Belieben mit frischem Koriander und eingelegten Jalapeños garnieren.",
+      "8. Die obere Brötchenhälfte auflegen und die Tortas servieren."
+    ],
+    "schwierigkeit": "Einfach",
+    "attribute": [
+      "Fleisch",
+      "Mexikanische Küche",
+      "Herzhaft",
+      "Sandwiches",
+      "Mittagessen",
+      "Abendessen"
+    ],
+    "beschreibung": "Die Torta de Chorizo ist ein klassisches mexikanisches Sandwich, das mit würziger, angebratener Chorizo und frischen Zutaten wie Avocado, Salat und Tomaten gefüllt ist. Es ist ein herzhaftes und sättigendes Gericht, das oft als Snack oder Hauptgericht genossen wird.",
+    "bild": "assets/frontend/img/Firefly_torta_chorizo.jpg",
+    "tipp": "Für extra Geschmack können Sie die Brötchen vor dem Füllen leicht anrösten oder mit einem Hauch von Knoblauchöl bestreichen."
+  },
+  {
+    "name": "Chorizo a la Sidra",
+    "zubereitungszeit": "45 min",
+    "land": "Spanien",
+    "zutaten": [
+      "300 g Chorizo (in Scheiben geschnitten)",
+      "250 ml Sidra (alternativ grüner Apfel, falls keine Sidra verfügbar)",
+      "1 Zwiebel (gewürfelt)",
+      "2 Knoblauchzehen (fein gehackt)",
+      "1 grüner Paprika (gewürfelt)",
+      "1 roter Paprika (gewürfelt)",
+      "Olivenöl",
+      "Salz und Pfeffer nach Geschmack",
+      "Petersilie (optional, zum Garnieren)"
+    ],
+    "Zubereitung": [
+      "1. Chorizo in Scheiben schneiden und in einer Pfanne mit etwas Olivenöl anbraten, bis sie leicht gebräunt ist.",
+      "2. Chorizo aus der Pfanne nehmen und im verbleibenden Fett Zwiebeln, Knoblauch und Paprika anbraten, bis sie weich sind.",
+      "3. Chorizo wieder in die Pfanne geben und die Sidra (oder den grünen Apfel) hinzufügen.",
+      "4. Alles zusammen bei niedriger Hitze köcheln lassen, bis die Flüssigkeit reduziert und die Aromen gut verbunden sind.",
+      "5. Mit Salz und Pfeffer abschmecken und nach Belieben mit frischer Petersilie garnieren."
+    ],
+    "schwierigkeit": "Einfach",
+    "attribute": [
+      "Fleisch",
+      "Tapas",
+      "Nicht vegetarisch",
+      "Beilagen",
+      "Spanische Küche"
+    ],
+    "beschreibung": "Chorizo a la Sidra ist ein traditionelles spanisches Gericht, bei dem Chorizo mit Sidra gekocht wird, um eine aromatische und herzhafte Mahlzeit zu schaffen. Es eignet sich hervorragend als Tapas oder Hauptgericht.",
+    "bild": "assets/frontend/img/Firefly_chorizo_sidra.jpg",
+    "tipp": "Servieren Sie dieses Gericht mit frischem Baguette oder rustikalem Brot, um die köstliche Sauce aufzunehmen."
+  },
+  {
+    "name": "Schnitzel",
+    "zubereitungszeit": "30 min",
+    "land": "Deutschland",
+    "zutaten": [
+      "4 Schweine- oder Kalbsschnitzel",
+      "Mehl (zum Wenden)",
+      "2 Eier (verquirlt)",
+      "Semmelbrösel (zum Wenden)",
+      "Salz und Pfeffer nach Geschmack",
+      "Öl (zum Braten)",
+      "Zitrone (optional, zum Servieren)"
+    ],
+    "Zubereitung": [
+      "1. Die Schnitzel mit einem Fleischklopfer gleichmäßig dünn klopfen.",
+      "2. Mit Salz und Pfeffer würzen.",
+      "3. Die Schnitzel zuerst in Mehl, dann in verquirltem Ei und schließlich in Semmelbröseln wenden.",
+      "4. Öl in einer Pfanne erhitzen und die Schnitzel bei mittlerer bis hoher Hitze goldbraun und knusprig braten.",
+      "5. Heiß servieren, optional mit einer Zitronenscheibe."
+    ],
+    "schwierigkeit": "Einfach",
+    "attribute": [
+      "Fleisch",
+      "Deutsch",
+      "Nicht vegetarisch",
+      "Abendessen",
+      "Mittagessen"
+    ],
+    "beschreibung": "Schnitzel ist ein klassisches deutsches Gericht aus paniertem und gebratenem Fleisch, das in ganz Mitteleuropa beliebt ist. Es wird oft mit Beilagen wie Kartoffeln oder Salat serviert.",
+    "bild": "assets/frontend/img/Firefly_ Schnitzel.jpg",
+    "tipp": "Für ein besonders knuspriges Ergebnis können Sie die Schnitzel nach dem Wenden in den Semmelbröseln nochmals leicht andrücken."
+  },
+  {
+    "name": "Maultaschen Gebraten mit Zwiebeln",
+    "zubereitungszeit": "40 min",
+    "land": "Deutschland",
+    "zutaten": [
+      "6-8 Maultaschen (gefüllte Teigtaschen)",
+      "1 Zwiebel (in feine Ringe geschnitten)",
+      "Öl oder Butter (zum Braten)",
+      "Salz und Pfeffer nach Geschmack",
+      "Petersilie (optional, zum Garnieren)"
+    ],
+    "Zubereitung": [
+      "1. Die Maultaschen nach Packungsanweisung kochen und abtropfen lassen.",
+      "2. Zwiebeln in feine Ringe schneiden.",
+      "3. Öl oder Butter in einer Pfanne erhitzen und die Zwiebeln darin goldbraun und karamellisieren lassen.",
+      "4. Die Maultaschen hinzufügen und in der Pfanne braten, bis sie ebenfalls goldbraun sind.",
+      "5. Mit Salz und Pfeffer abschmecken.",
+      "6. Heiß servieren, nach Belieben mit frischer Petersilie bestreuen."
+    ],
+    "schwierigkeit": "Einfach",
+    "attribute": [
+      "Fleisch",
+      "Deutsche Küche",
+      "Nicht vegetarisch",
+      "Abendessen",
+      "Mittagessen"
+    ],
+    "beschreibung": "Maultaschen sind traditionelle gefüllte Teigtaschen aus Deutschland. In dieser Variante werden sie zusammen mit karamellisierten Zwiebeln gebraten und serviert.",
+    "bild": "assets/frontend/img/Firefly_Maultaschen.jpg",
+    "tipp": "Maultaschen lassen sich auch hervorragend mit einem grünen Salat oder etwas Sauerkraut kombinieren."
+  },
+  {
+    "name": "Tortilla de Patatas",
+    "zubereitungszeit": "45 min",
+    "land": "Spanien",
+    "zutaten": [
+      "4 große Kartoffeln (geschält und in dünne Scheiben geschnitten)",
+      "6 Eier",
+      "1 Zwiebel (optional, in feine Ringe geschnitten)",
+      "Olivenöl",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "Zubereitung": [
+      "1. Die Kartoffeln (und Zwiebeln) in Olivenöl bei mittlerer Hitze langsam garen, bis sie weich sind. Gelegentlich umrühren.",
+      "2. Die Kartoffeln abtropfen lassen und mit Salz und Pfeffer würzen.",
+      "3. In einer Schüssel die Eier verquirlen und die Kartoffeln hinzufügen. Gut vermengen.",
+      "4. Etwas Olivenöl in einer Pfanne erhitzen. Die Kartoffel-Ei-Mischung in die Pfanne geben und bei mittlerer Hitze etwa 5-7 Minuten braten, bis die Unterseite goldbraun ist.",
+      "5. Die Tortilla vorsichtig wenden (z.B. mit Hilfe eines Tellers) und die andere Seite weitere 5-7 Minuten braten, bis sie ebenfalls goldbraun und durchgegart ist.",
+      "6. Die Tortilla auf einen Teller geben, etwas abkühlen lassen, dann in Stücke schneiden und servieren."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Vegetarisch",
+      "Glutenfrei",
+      "Kartoffeln",
+      "Tapas",
+      "Spanische Küche",
+      "Abendessen",
+      "Mittagessen"
+    ],
+    "beschreibung": "Die Tortilla de Patatas, auch bekannt als spanisches Omelett, ist ein klassisches spanisches Gericht aus Kartoffeln und Eiern. Sie wird oft als Tapas oder Hauptgericht serviert und kann warm oder bei Zimmertemperatur genossen werden.",
+    "bild": "assets/frontend/img/Firefly_tortilla.jpg",
+    "tipp": "Für eine extra cremige Tortilla, lassen Sie die Eiermischung etwas weniger durchgaren, sodass sie im Inneren noch leicht flüssig ist."
+  },
+  {
+    "name": "Gulasch mit Spätzle",
+    "zubereitungszeit": "2 h",
+    "land": "Deutschland",
+    "zutaten": [
+      "Rindfleisch (z.B. Schulter oder Schaufelstück)",
+      "Zwiebel",
+      "Knoblauch",
+      "Rote Paprika",
+      "Tomatenmark",
+      "Rinderbrühe",
+      "Paprika edelsüß",
+      "Kreuzkümmel",
+      "Salz",
+      "Pfeffer",
+      "Spätzle",
+      "Öl zum Braten"
+    ],
+    "Zubereitung": [
+      "1. Das Fleisch in Würfel schneiden und in einem großen Topf mit heißem Öl rundherum anbraten.",
+      "2. Zwiebel, Knoblauch und rote Paprika würfeln und zum Fleisch hinzufügen. Alles zusammen anbraten, bis die Zwiebeln glasig sind.",
+      "3. Tomatenmark, Paprika und Kreuzkümmel einrühren und kurz anrösten.",
+      "4. Mit Rinderbrühe ablöschen und das Gulasch bei niedriger Hitze etwa 1,5 Stunden köcheln lassen, bis das Fleisch zart ist.",
+      "5. Die Spätzle nach Packungsanweisung zubereiten.",
+      "6. Gulasch heiß über den Spätzle servieren."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Fleisch",
+      "Deutsche Küche",
+      "Nicht vegetarisch",
+      "Abendessen",
+      "Mittagessen"
+    ],
+    "beschreibung": "Gulasch ist ein traditioneller Eintopf aus Rindfleisch und Gewürzen, der in Deutschland und anderen Ländern sehr beliebt ist. Dazu werden Spätzle, eine Art schwäbische Teigwaren, serviert.",
+    "bild": "assets/frontend/img/Firefly_Gulasch.jpg",
+    "tipp": "Für ein noch reichhaltigeres Gulasch kannst du einen Schuss Rotwein zur Brühe hinzufügen. Das gibt dem Gulasch eine tiefere Geschmackstiefe und eine schöne Farbe. Wenn du es besonders zart magst, lasse das Gulasch noch länger bei niedriger Hitze köcheln. Die Spätzle kannst du auch selber machen, wenn du Zeit und Lust hast selbstgemachte Spätzle sind oft noch geschmackvoller als gekaufte."
+  },
+  {
+    "name": "Pozole Mexicano",
+    "zubereitungszeit": "3 h",
+    "land": "Mexiko",
+    "zutaten": [
+      "1 kg Schweinefleisch (z.B. Schulter oder Bauch), in Würfel geschnitten",
+      "1 Tasse getrocknete Hominy (Mais), eingeweicht",
+      "1 Zwiebel, gehackt",
+      "4 Knoblauchzehen, fein gehackt",
+      "3 getrocknete Chilischoten (z.B. Ancho oder Pasilla), entkernt und eingeweicht",
+      "2 TL Kreuzkümmel",
+      "2 TL Oregano",
+      "1 TL Paprikapulver",
+      "1 Lorbeerblatt",
+      "2 l Hühner- oder Gemüsebrühe",
+      "Salz und Pfeffer nach Geschmack",
+      "Für die Garnitur:",
+      "Kohl, fein geschnitten",
+      "Radieschen, in Scheiben geschnitten",
+      "Zwiebel, fein gehackt",
+      "Frische Korianderblätter",
+      "Limetten, in Spalten geschnitten",
+      "Tortilla-Chips oder gebratene Tortillas"
+    ],
+    "Zubereitung": [
+      "1. Die eingeweichte Hominy in einem großen Topf mit Wasser zum Kochen bringen. Etwa 30 Minuten kochen lassen, bis die Körner aufgeplatzt und weich sind. Abgießen und beiseite stellen.",
+      "2. In einem großen Topf das Schweinefleisch mit etwas Öl anbraten, bis es von allen Seiten goldbraun ist. Das Fleisch aus dem Topf nehmen und beiseite stellen.",
+      "3. In demselben Topf Zwiebel und Knoblauch anbraten, bis sie weich sind. Die eingeweichten Chilischoten in einem Mixer oder Food Processor pürieren und zu den Zwiebeln und dem Knoblauch geben. Kreuzkümmel, Oregano, Paprikapulver und Lorbeerblatt hinzufügen und kurz mitbraten.",
+      "4. Das angebratene Fleisch zurück in den Topf geben und mit der Brühe aufgießen. Alles zum Kochen bringen, dann die Hitze reduzieren und etwa 1 Stunde köcheln lassen.",
+      "5. Die Hominy hinzufügen und weitere 1-1,5 Stunden köcheln lassen, bis das Fleisch zart ist und sich leicht auseinanderziehen lässt. Mit Salz und Pfeffer abschmecken.",
+      "6. Das Pozole in Schalen füllen und nach Belieben mit Kohl, Radieschen, Zwiebel, frischem Koriander, Limettenspalten und Tortilla-Chips garnieren."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Fleisch",
+      "Mexikanische Küche",
+      "Suppen",
+      "Herzhaft",
+      "Mexikanische Küche",
+      "Mittagessen"
+    ],
+    "beschreibung": "Pozole ist eine traditionelle mexikanische Suppe, die aus Schweinefleisch, Hominy (besonderem Mais) und einer aromatischen Chili-Gewürzmischung besteht. Das Gericht wird oft bei besonderen Anlässen und Festen serviert und ist bekannt für seine reichhaltigen und herzhaften Aromen.",
+    "bild": "assets/frontend/img/Firefly_Pozole.jpg",
+    "tipp": "Um dem Pozole noch mehr Tiefe zu verleihen, kannst du die Chilischoten vorher rösten, bevor du sie pürierst. Dies intensiviert das Aroma und verleiht der Suppe einen noch reichhaltigeren Geschmack. Achte darauf, das Pozole nach dem Kochen eine Weile ruhen zu lassen, damit sich die Aromen noch besser vermischen können."
+  },
+  {
+    "name": "Croquetas de Jamón",
+    "zubereitungszeit": "1 h 30 min",
+    "land": "Spanien",
+    "zutaten": [
+      "100 g Schinken (z.B. Serrano oder iberischer Schinken), fein gehackt",
+      "50 g Butter",
+      "50 g Mehl",
+      "500 ml Milch",
+      "1 kleine Zwiebel, fein gehackt",
+      "2 Eier",
+      "Semmelbrösel",
+      "Olivenöl oder Pflanzenöl zum Frittieren",
+      "Salz",
+      "Pfeffer",
+      "Muskatnuss (optional)"
+    ],
+    "Zubereitung": [
+      "1. In einer großen Pfanne die Butter schmelzen und die Zwiebel darin glasig dünsten.",
+      "2. Das Mehl hinzufügen und unter ständigem Rühren 1-2 Minuten anschwitzen, bis es leicht goldbraun ist.",
+      "3. Nach und nach die Milch hinzufügen, dabei ständig rühren, um Klumpen zu vermeiden. Die Mischung zum Kochen bringen und unter ständigem Rühren etwa 5 Minuten köcheln lassen, bis sie dicklich wird.",
+      "4. Den fein gehackten Schinken unterrühren und die Mischung mit Salz, Pfeffer und eventuell etwas Muskatnuss abschmecken.",
+      "5. Die Masse in eine flache Schüssel umfüllen und abkühlen lassen, bis sie fest wird (am besten über Nacht im Kühlschrank).",
+      "6. Die abgekühlte Masse in kleine Portionen teilen und zu Kroketten formen.",
+      "7. Die Kroketten zuerst in verquirltem Ei und dann in Semmelbröseln wenden.",
+      "8. Öl in einer tiefen Pfanne oder Fritteuse auf 180°C erhitzen. Die Kroketten portionsweise goldbraun und knusprig frittieren.",
+      "9. Die fertigen Kroketten auf Küchenpapier abtropfen lassen und heiß servieren."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Fleisch",
+      "Spanische Küche",
+      "Nicht vegetarisch",
+      "Frittieren",
+      "Beilagen",
+      "Tapas",
+      "Abendessen",
+      "Mittagessen"
+    ],
+    "beschreibung": "Croquetas de Jamón sind köstliche, frittierte Kroketten, die mit einer cremigen Mischung aus Schinken und Bechamelsauce gefüllt sind. Sie sind eine beliebte Tapas-Option in Spanien und eignen sich hervorragend als Snack oder Vorspeise.",
+    "bild": "assets/frontend/img/Firefly_croquetas.jpg",
+    "tipp": "Für extra knusprige Kroketten kannst du die Semmelbrösel mit etwas geriebenem Parmesan vermischen. Achte darauf, dass das Öl die richtige Temperatur hat, um die Kroketten gleichmäßig goldbraun und knusprig zu frittieren. Wenn du die Kroketten vorbereiten möchtest, kannst du sie auch einfrieren und direkt aus dem Gefrierschrank frittieren."
+  },
+  {
+    "name": "Pan Tumaca",
+    "zubereitungszeit": "10 min",
+    "land": "Spanien",
+    "zutaten": [
+      "Baguette oder rustikales Brot",
+      "Reife Tomaten",
+      "Knoblauchzehe",
+      "Olivenöl",
+      "Salz",
+      "Pfeffer",
+      "Kalte Gerichte",
+      "Optional: Schinken oder Käse zum Belegen"
+    ],
+    "Zubereitung": [
+      "1. Das Brot in Scheiben schneiden und im Toaster oder im Ofen leicht rösten.",
+      "2. Die Knoblauchzehe schälen und halbieren. Die gerösteten Brotscheiben mit der Schnittfläche der Knoblauchzehe einreiben.",
+      "3. Die Tomaten halbieren und auf das Brot reiben, bis die Tomatenstücke komplett aufgegangen sind und der Saft durchgesickert ist.",
+      "4. Mit Olivenöl beträufeln und mit Salz und Pfeffer würzen.",
+      "5. Nach Belieben mit Schinken oder Käse belegen und servieren."
+    ],
+    "schwierigkeit": "Einfach",
+    "attribute": [
+      "Vegetarisch",
+      "Spanische Küche",
+      "Schnell",
+      "Frühstück"
+    ],
+    "beschreibung": "Pan Tumaca ist ein einfaches, aber köstliches spanisches Gericht aus geröstetem Brot, das mit frischen Tomaten, Knoblauch und Olivenöl bestrichen wird. Es wird oft als Vorspeise oder Tapas serviert.",
+    "bild": "assets/frontend/img/Firefly_pan_tumaca.jpg",
+    "tipp": "Für noch mehr Geschmack kannst du die Tomaten vor dem Reiben leicht salzen und einige Minuten stehen lassen, damit sie ihren Saft abgeben. Das Brot kann auch mit etwas zusätzlichem Knoblauchöl beträufelt werden, um eine intensivere Knoblauchnote zu erzielen. Wenn du den Pan Tumaca als Tapas servierst, ist es besonders lecker mit einem guten spanischen Schinken oder Manchego-Käse."
+  },
+  {
+    "name": "Mole Poblano",
+    "zubereitungszeit": "3 h",
+    "land": "Mexiko",
+    "zutaten": [
+      "Für das Mole:",
+      "4 getrocknete Pasilla-Chilischoten",
+      "4 getrocknete Ancho-Chilischoten",
+      "2 getrocknete Mulato-Chilischoten",
+      "1/2 Tasse Sesamkörner",
+      "1/4 Tasse Erdnüsse, ungesalzen",
+      "1/4 Tasse Rosinen",
+      "1/4 Tasse Mandeln",
+      "1/4 Tasse Schokolade (zartbitter), gehackt",
+      "1 Zwiebel, grob gehackt",
+      "4 Knoblauchzehen",
+      "2 Tomaten, gewürfelt",
+      "1/4 Tasse Pflanzenöl",
+      "1 TL Kreuzkümmel",
+      "1 TL Zimt",
+      "1 TL Paprikapulver",
+      "1 TL Oregano",
+      "1 EL Zucker",
+      "1 TL Salz",
+      "2 Tassen Hühner- oder Gemüsebrühe",
+      "Für die Garnitur (optional):",
+      "Gekochtes Hähnchen oder Pute",
+      "Frische Korianderblätter",
+      "Gekochter Reis",
+      "Tortillas"
+    ],
+    "Zubereitung": [
+      "1. Die getrockneten Chilischoten entkernen und die Samen entfernen. Die Chilischoten in einer heißen, trockenen Pfanne rösten, bis sie aromatisch sind (ca. 2-3 Minuten). Die Chilischoten in eine Schüssel geben und mit heißem Wasser übergießen. Etwa 20 Minuten einweichen lassen.",
+      "2. In einer Pfanne Sesamkörner, Erdnüsse, Rosinen und Mandeln rösten, bis sie goldbraun sind. Beiseite stellen.",
+      "3. In der gleichen Pfanne das Pflanzenöl erhitzen und Zwiebel sowie Knoblauch anbraten, bis sie weich und goldbraun sind.",
+      "4. Tomaten hinzufügen und kurz mitbraten, bis sie weich sind.",
+      "5. Die eingeweichten Chilischoten abtropfen lassen und zusammen mit den gerösteten Sesamkörnern, Erdnüssen, Rosinen, Mandeln und der Zwiebel-Knoblauch-Mischung in einem Mixer oder Food Processor pürieren, bis eine glatte Paste entsteht. Bei Bedarf etwas Brühe hinzufügen.",
+      "6. Die Mole-Paste in einem großen Topf bei mittlerer Hitze erhitzen. Kreuzkümmel, Zimt, Paprikapulver, Oregano, Zucker und Salz hinzufügen und gut vermengen.",
+      "7. Die Brühe langsam einrühren und das Mole zum Kochen bringen. Die Hitze reduzieren und das Mole etwa 30-40 Minuten köcheln lassen, bis es dick und aromatisch ist. Bei Bedarf weiter würzen.",
+      "8. Das Mole nach Belieben mit gekochtem Hähnchen oder Pute servieren. Dazu passen gekochter Reis und Tortillas."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Fleisch",
+      "Mexikanische Küche",
+      "Herzhaft",
+      "Abendessen",
+      "Mittagessen"
+    ],
+    "beschreibung": "Mole Poblano ist ein traditionelles mexikanisches Gericht, das für seine komplexe und reichhaltige Sauce bekannt ist. Diese Sauce besteht aus einer Vielzahl von Zutaten, darunter getrocknete Chilischoten, Schokolade und Gewürze, und wird oft mit Hähnchen oder Pute serviert. Es ist ein Festessen, das sich durch seine tiefen, vielschichtigen Aromen auszeichnet.",
+    "bild": "assets/frontend/img/Firefly_Mole.jpg",
+    "tipp": "Für ein noch intensiveres Aroma kannst du die Chilischoten und die Gewürze etwas länger rösten, bis sie leicht karamellisieren. Wenn das Mole zu dick wird, kannst du es mit zusätzlicher Brühe verdünnen, um die gewünschte Konsistenz zu erreichen. Das Mole schmeckt oft noch besser, wenn es über Nacht im Kühlschrank durchziehen darf. Beim Servieren kann eine frische Portion Reis und ein paar Tortillas die perfekte Ergänzung sein."
+  },
+  {
+    "name": "Pimientos Fritos",
+    "zubereitungszeit": "15 min",
+    "land": "Spanien",
+    "zutaten": [
+      "Grüne oder rote Paprika",
+      "Olivenöl",
+      "Salz",
+      "Optional: Pfeffer oder Zitronensaft"
+    ],
+    "Zubereitung": [
+      "1. Die Paprika waschen, entkernen und in Streifen oder Ringe schneiden.",
+      "2. Olivenöl in einer Pfanne erhitzen.",
+      "3. Die Paprikastreifen in das heiße Öl geben und bei mittlerer Hitze braten, bis sie weich und leicht gebräunt sind.",
+      "4. Mit Salz und nach Belieben mit Pfeffer oder Zitronensaft abschmecken.",
+      "5. Heiß servieren."
+    ],
+    "schwierigkeit": "Einfach",
+    "attribute": [
+      "Vegetarisch",
+      "Spanische Küche",
+      "Schnell",
+      "Beilagen",
+      "Tapas",
+      "Abendessen"
+    ],
+    "beschreibung": "Pimientos Fritos sind einfach gebratene Paprika, die als Tapas oder Beilage serviert werden. Sie sind knusprig und aromatisch und können nach Belieben gewürzt werden.",
+    "bild": "assets/frontend/img/Firefly_pimientos.jpg",
+    "tipp": "Für zusätzlichen Geschmack kannst du die Paprika mit etwas Knoblauch oder getrockneten Kräutern wie Thymian oder Rosmarin würzen. Wenn du die Paprika besonders knusprig magst, lasse sie bei mittlerer bis hoher Hitze braten und wende sie gelegentlich, damit sie gleichmäßig bräunen. Serviere die Pimientos Fritos noch warm, um das beste Aroma zu genießen."
+  },
+  {
+    "name": "Sushi Inside-Out mit Lachs und Avocado",
+    "zubereitungszeit": "1 h 30 min",
+    "land": "Japan",
+    "zutaten": [
+      "Für den Sushi-Reis:",
+      "250 g Sushi-Reis",
+      "300 ml Wasser",
+      "50 ml Reisessig",
+      "30 g Zucker",
+      "10 g Salz",
+      "Für die Füllung:",
+      "200 g frischer Lachs (sushi-geeignet, in dünne Streifen geschnitten)",
+      "1 reife Avocado (in dünne Streifen geschnitten)",
+      "1/2 Gurke (in dünne Streifen geschnitten)",
+      "Für die Außenseite:",
+      "Nori-Blätter (getrocknete Algenblätter)",
+      "1 EL Sesamkörner (geröstet)",
+      "Für das Servieren:",
+      "Sojasauce",
+      "Wasabi",
+      "Kalte Gerichte",
+      "Eingelegter Ingwer"
+    ],
+    "Zubereitung": [
+      "1. Den Sushi-Reis gründlich unter kaltem Wasser abspülen, bis das Wasser klar ist. Den Reis mit 300 ml Wasser in einen Reiskocher oder Topf geben und nach Anweisung kochen.",
+      "2. In einem kleinen Topf Reisessig, Zucker und Salz erhitzen, bis sich der Zucker aufgelöst hat. Die Mischung in eine Schüssel geben und abkühlen lassen.",
+      "3. Den gekochten Reis in eine große Schüssel geben und mit der Essigmischung vermengen. Den Reis abkühlen lassen.",
+      "4. Ein Blatt Frischhaltefolie auf eine Bambus-Sushi-Matte legen. Ein Nori-Blatt auf die Folie legen und gleichmäßig mit einer Schicht Sushi-Reis bedecken, dabei etwa 1 cm am oberen Rand frei lassen.",
+      "5. In der Mitte des Reises Lachs, Avocado und Gurke in einer Linie platzieren.",
+      "6. Die Sushi-Matte verwenden, um das Sushi von unten nach oben zu rollen, dabei leicht andrücken, um eine feste Rolle zu formen. Die Folie entfernen, wenn die Rolle fertig ist.",
+      "7. Die Sushi-Rolle in kleine Stücke schneiden und die Außenseite mit gerösteten Sesamkörnern bestreuen.",
+      "8. Mit Sojasauce, Wasabi und eingelegtem Ingwer servieren."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Fisch",
+      "asiatische Küche",
+      "Rohkost",
+      "Sushi",
+      "Abendessen",
+      "Mittagessen"
+    ],
+    "beschreibung": "Dieses Inside-Out Sushi mit Lachs und Avocado ist ein beliebtes japanisches Gericht, bei dem der Reis außen und die Füllung innen ist. Die Rolle wird mit gerösteten Sesamkörnern bestreut und mit typischen Beilagen wie Sojasauce, Wasabi und eingelegtem Ingwer serviert.",
+    "bild": "assets/frontend/img/Sushi-Lachs-Avocado.jpg",
+    "tipp": "Um das Sushi noch schmackhafter zu machen, kannst du den Reis vor dem Servieren leicht mit einem zusätzlichen Schuss Reisessig und einem Hauch Zucker verfeinern. Wenn du eine knusprigere Textur möchtest, kannst du die Außenseite der Rolle leicht in gerösteten Sesamkörnern wenden. Stelle sicher, dass alle Zutaten, insbesondere der Lachs, frisch und von hoher Qualität sind, um den besten Geschmack zu erzielen."
+  },
+  {
+    "name": "Cannoli Italiano",
+    "zubereitungszeit": "2 h",
+    "land": "Italien",
+    "zutaten": [
+      "Für die Cannoli-Hüllen:",
+      "250 g Mehl",
+      "50 g Zucker",
+      "30 g Butter, in Stücken",
+      "1 Ei",
+      "1 TL Weißweinessig",
+      "1 Prise Salz",
+      "1-2 EL Wasser (nach Bedarf)",
+      "Cannoli-Rohre (zum Formen der Hüllen)",
+      "Für die Ricotta-Füllung:",
+      "400 g Ricotta-Käse",
+      "150 g Puderzucker",
+      "1 TL Vanilleextrakt",
+      "50 g Schokoladenstückchen (optional)",
+      "1 TL Zitronenschale, fein gerieben",
+      "Puderzucker (zum Bestäuben)",
+      "Pistazien oder kandierte Kirschen (zum Garnieren, optional)"
+    ],
+    "Zubereitung": [
+      "1. Für die Cannoli-Hüllen Mehl, Zucker, Salz und Butter in einer Schüssel vermengen, bis die Mischung krümelig ist. Das Ei und den Essig hinzufügen und zu einem glatten Teig verkneten. Falls der Teig zu trocken ist, 1-2 EL Wasser hinzufügen.",
+      "2. Den Teig in Frischhaltefolie wickeln und etwa 30 Minuten im Kühlschrank ruhen lassen.",
+      "3. Den Teig dünn ausrollen und in kleine Kreise schneiden, die groß genug sind, um um die Cannoli-Rohre gewickelt zu werden.",
+      "4. Die Teigkreise um die Rohre wickeln und die Enden mit etwas Wasser oder Eiweiß verschließen.",
+      "5. In einer tiefen Fritteuse oder Pfanne Öl auf 180°C erhitzen und die Cannoli-Hüllen vorsichtig frittieren, bis sie goldbraun und knusprig sind. Auf Küchenpapier abtropfen lassen und vorsichtig von den Rohren entfernen.",
+      "6. Für die Ricotta-Füllung den Ricotta-Käse mit Puderzucker, Vanilleextrakt und Zitronenschale glatt rühren. Nach Belieben Schokoladenstückchen unterrühren.",
+      "7. Die Ricotta-Füllung in einen Spritzbeutel füllen und die abgekühlten Cannoli-Hüllen füllen.",
+      "8. Die gefüllten Cannoli mit Puderzucker bestäuben und nach Belieben mit Pistazien oder kandierten Kirschen garnieren."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Süß",
+      "Italienische Küche",
+      "Backen",
+      "Süßigkeiten",
+      "Desserts"
+    ],
+    "beschreibung": "Cannoli sind ein klassisches italienisches Dessert aus Sizilien, das aus knusprigen Teigrollen besteht, die mit einer süßen Ricotta-Füllung gefüllt sind. Sie sind ein beliebtes Highlight auf vielen italienischen Festen und Feiern.",
+    "bild": "assets/frontend/img/Firefly_Cannoli.jpg",
+    "tipp": "Um die Cannoli noch knuspriger zu machen, kannst du den Teig vor dem Ausrollen leicht kühlen. Wenn du die Füllung nicht sofort in die Hüllen gibst, stelle die gefüllten Cannoli vor dem Servieren für einige Stunden in den Kühlschrank, damit die Füllung fest wird und die Hüllen nicht durchweichen. Für eine zusätzliche Geschmacksnote kannst du die Füllung mit einem Hauch Zimt oder einem Schuss Marsala-Wein verfeinern."
+  },
+  {
+    "name": "Pisto Manchego",
+    "zubereitungszeit": "45 min",
+    "land": "Spanien",
+    "zutaten": [
+      "Zucchini",
+      "Paprika (rot und grün)",
+      "Tomaten",
+      "Zwiebel",
+      "Knoblauch",
+      "Olivenöl",
+      "Salz",
+      "Pfeffer",
+      "Optional: Eier zum Garnieren"
+    ],
+    "Zubereitung": [
+      "1. Zucchini, Paprika, Tomaten und Zwiebel in kleine Würfel schneiden.",
+      "2. Olivenöl in einer großen Pfanne erhitzen und die Zwiebel und den Knoblauch darin glasig dünsten.",
+      "3. Paprika und Zucchini hinzufügen und etwa 10 Minuten braten, bis sie weich sind.",
+      "4. Tomaten hinzufügen und mit Salz und Pfeffer abschmecken. Alles bei niedriger Hitze 20 Minuten köcheln lassen, bis das Gemüse vollständig gar ist.",
+      "5. Nach Belieben mit einem Spiegelei servieren."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Vegetarisch",
+      "Spanische Küche",
+      "Glutenfrei",
+      "Tapas",
+      "Abendessen",
+      "Kalte Gerichte",
+      "Mittagessen"
+    ],
+    "beschreibung": "Pisto Manchego ist ein traditionelles spanisches Ratatouille aus verschiedenen Gemüsesorten, das in der Region Kastilien-La Mancha besonders beliebt ist. Es wird oft mit einem Ei serviert, kann aber auch als Beilage oder Hauptgericht genossen werden.",
+    "bild": "assets/frontend/img/Firefly_pisto.jpg",
+    "tipp": "Für mehr Geschmack kannst du dem Pisto Manchego einen Teelöffel geräuchertes Paprikapulver hinzufügen. Wenn du die Aromen noch intensiver machen möchtest, lasse das Pisto nach dem Kochen ein paar Minuten ruhen, damit sich die Geschmäcker besser vermischen. Wenn du das Gericht mit Eiern servierst, brate die Eier in einer separaten Pfanne, um die gewünschte Konsistenz zu erreichen – ein Spiegelei mit flüssigem Eigelb passt besonders gut."
+  },
+  {
+    "name": "Pastel de Nata",
+    "zubereitungszeit": "1 h 30 min",
+    "land": "Portugal",
+    "zutaten": [
+      "Für den Teig:",
+      "1 Rolle Blätterteig (aus dem Kühlregal)",
+      "Für die Füllung:",
+      "250 ml Milch",
+      "100 ml Sahne",
+      "100 g Zucker",
+      "1 Vanilleschote (alternativ Vanilleextrakt)",
+      "4 Eigelb",
+      "20 g Mehl",
+      "20 g Stärke",
+      "1 Prise Salz"
+    ],
+    "Zubereitung": [
+      "1. Den Ofen auf 220°C (200°C Umluft) vorheizen.",
+      "2. Den Blätterteig in kleine Kreise ausstechen, die groß genug sind, um die Vertiefungen eines Muffinblechs auszukleiden. Die Teigkreise in die Muffinmulden legen und leicht andrücken.",
+      "3. Für die Füllung die Vanilleschote längs aufschneiden und das Mark herauskratzen. Milch, Sahne und Vanillemark in einem Topf erhitzen, aber nicht kochen.",
+      "4. In einer Schüssel Zucker, Eigelbe, Mehl, Stärke und Salz gut verrühren.",
+      "5. Eine kleine Menge der heißen Milchmischung zu den Eigelben geben und gut verrühren, um die Eigelbe zu temperieren. Dann die Mischung zurück in den Topf geben und unter ständigem Rühren köcheln lassen, bis die Masse dick wird.",
+      "6. Die Füllung gleichmäßig in die vorbereiteten Blätterteig-Tassen füllen.",
+      "7. Im vorgeheizten Ofen etwa 15-20 Minuten backen, bis die Füllung goldbraun und die Teigkanten knusprig sind.",
+      "8. Die Pastéis de Nata aus dem Ofen nehmen und abkühlen lassen. Warm oder bei Raumtemperatur servieren, nach Belieben mit etwas Zimtpulver oder Puderzucker bestreuen."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Süß",
+      "Portugiesische Küche",
+      "Backen",
+      "Süßigkeiten",
+      "Desserts"
+    ],
+    "beschreibung": "Pastéis de Nata sind traditionelle portugiesische Puddingtörtchen mit einer knusprigen Blätterteighülle und einer cremigen Vanillefüllung. Sie sind ein beliebtes Dessert und passen perfekt zu einem Kaffee oder Tee.",
+    "bild": "assets/frontend/img/Firefly_pasteles.jpg",
+    "tipp": "Für besonders knusprige Blätterteigkanten kannst du den Blätterteig vor dem Backen leicht mit etwas Butter oder einem Eigelb bestreichen. Wenn du die Pastéis de Nata noch aromatischer machen möchtest, kannst du ein kleines Stück Zimtstange oder einige Nelken zur Milchmischung hinzufügen und sie vor dem Erhitzen wieder entfernen. Lass die Pastéis nach dem Backen etwas auskühlen, damit die Füllung fest wird und die Törtchen ihre Form behalten."
+  },
+  {
+    "name": "Migas Manchegas",
+    "zubereitungszeit": "1 h",
+    "land": "Spanien",
+    "zutaten": [
+      "Stale Brot (in kleine Stücke gerissen)",
+      "Schmalz oder Olivenöl",
+      "Knoblauch",
+      "Paprika",
+      "Kochschinken oder Speck (optional)",
+      "Eier",
+      "Salz",
+      "Pfeffer"
+    ],
+    "Zubereitung": [
+      "1. Das Brot in kleine Stücke reißen und in etwas Wasser einweichen, bis es weich ist. Gut abtropfen lassen.",
+      "2. Schmalz oder Olivenöl in einer Pfanne erhitzen und die Knoblauchzehen darin anbraten.",
+      "3. Die Brocken hinzufügen und unter ständigem Rühren braten, bis sie knusprig und goldbraun sind.",
+      "4. Paprika und, falls verwendet, Kochschinken oder Speck hinzufügen und weiterbraten.",
+      "5. In einer separaten Pfanne die Eier nach Wunsch braten und zu den Migas servieren."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Fleisch",
+      "Spanische Küche",
+      "Traditionell",
+      "Mittagessen"
+    ],
+    "beschreibung": "Migas Manchegas ist ein traditionelles Gericht aus Kastilien-La Mancha, das aus geröstetem Brot, Knoblauch und Paprika besteht. Es kann mit verschiedenen Zutaten wie Schinken oder Speck verfeinert werden und wird oft mit Spiegeleiern serviert.",
+    "bild": "assets/frontend/img/Firefly_migas.jpg",
+    "tipp": "Wenn du den Migas extra aromatisch machen möchtest, kannst du etwas geräuchertes Paprikapulver oder sogar etwas frische Petersilie hinzufügen. Auch das Einweichen des Brotes in etwas Brühe statt in Wasser verleiht den Migas zusätzlichen Geschmack. Achte darauf, dass du das Brot gut ausdrückst, damit es nicht zu nass ist und die Migas beim Braten knusprig werden. Die Migas lassen sich gut mit einem frischen Salat oder einigen eingelegten Oliven kombinieren."
+  },
+  {
+    "name": "Arroz de Cabidela",
+    "zubereitungszeit": "2 h",
+    "land": "Portugal",
+    "zutaten": [
+      "1 Hähnchen oder Kaninchen (je nach Vorliebe)",
+      "500 g Reis",
+      "1 Zwiebel, gehackt",
+      "2 Knoblauchzehen, gehackt",
+      "2 Tomaten, gehackt",
+      "1 Paprika (rot oder grün), gehackt",
+      "1 Lorbeerblatt",
+      "500 ml Hühner- oder Kaninchensuppe",
+      "250 ml Rotwein",
+      "1 EL Paprikapulver",
+      "Olivenöl",
+      "Salz",
+      "Pfeffer",
+      "Hühner- oder Kaninchensblut (optional, für authentischen Geschmack)",
+      "Frische Petersilie, gehackt (zum Garnieren)"
+    ],
+    "Zubereitung": [
+      "1. Das Hähnchen oder Kaninchen in Stücke schneiden und in einem großen Topf mit Olivenöl anbraten, bis es leicht gebräunt ist. Aus dem Topf nehmen und beiseite stellen.",
+      "2. Im gleichen Topf Zwiebel, Knoblauch, Tomaten und Paprika anbraten, bis die Zwiebeln glasig sind.",
+      "3. Das Paprikapulver hinzufügen und kurz mitbraten.",
+      "4. Den Reis einrühren und kurz anschwitzen.",
+      "5. Das Fleisch wieder in den Topf geben, die Brühe und den Rotwein hinzufügen. Das Lorbeerblatt dazugeben und alles zum Kochen bringen.",
+      "6. Die Hitze reduzieren und das Gericht etwa 30-40 Minuten köcheln lassen, bis der Reis und das Fleisch gar sind. Falls verwendet, das Blut einrühren und gut vermengen, um die Sauce zu verdicken.",
+      "7. Mit Salz, Pfeffer und frischer Petersilie abschmecken und servieren."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Fleisch",
+      "Portugiesische Küche",
+      "Herzhaft",
+      "Reisgerichte",
+      "Mittagessen"
+    ],
+    "beschreibung": "Arroz de Cabidela ist ein traditionelles portugiesisches Gericht aus Reis, Fleisch (häufig Hähnchen oder Kaninchen) und einer charakteristischen, würzigen Sauce, die oft auch Blut enthält, um eine reichhaltige und tiefgründige Geschmackstiefe zu erreichen.",
+    "bild": "assets/frontend/img/Firefly_arroz_cabidela.jpg",
+    "tipp": "Für zusätzlichen Geschmack kannst du das Fleisch vor dem Braten mit etwas Knoblauch und Zitronensaft marinieren. Wenn du das Blut verwendest, füge es erst gegen Ende der Kochzeit hinzu, um eine gleichmäßige Konsistenz zu erreichen. Achte darauf, dass der Reis gut die Flüssigkeit aufnimmt, um ein cremiges Ergebnis zu erzielen. Falls du keinen Zugang zu Hühner- oder Kaninchensblut hast, kannst du die Sauce mit etwas zusätzlichem Paprikapulver und einem Schuss Rotwein verfeinern. Ein frischer Salat oder eine einfache Beilage rundet das Gericht perfekt ab."
+  },
+  {
+    "name": "Albóndigas en Salsa de Tomate",
+    "zubereitungszeit": "1 h 30 min",
+    "land": "Spanien",
+    "zutaten": [
+      "Für die Albóndigas:",
+      "500 g Rinderhackfleisch",
+      "1 Ei",
+      "1 Semmel (in Wasser eingeweicht und ausgedrückt)",
+      "1 Zwiebel, fein gehackt",
+      "2 Knoblauchzehen, fein gehackt",
+      "Petersilie, gehackt",
+      "Salz",
+      "Pfeffer",
+      "Olivenöl zum Braten",
+      "Für die Tomatensauce:",
+      "400 g Tomaten aus der Dose (gehackt)",
+      "1 Zwiebel, fein gehackt",
+      "2 Knoblauchzehen, fein gehackt",
+      "Olivenöl",
+      "Salz",
+      "Pfeffer",
+      "Zucker (optional, zum Abrunden)"
+    ],
+    "Zubereitung": [
+      "1. Für die Albóndigas das Hackfleisch mit Ei, Semmel, Zwiebel, Knoblauch, Petersilie, Salz und Pfeffer gut vermengen. Kleine Bällchen formen.",
+      "2. Die Albóndigas in einer Pfanne mit Olivenöl rundherum anbraten, bis sie goldbraun sind. Herausnehmen und beiseite stellen.",
+      "3. Für die Sauce in der gleichen Pfanne etwas Olivenöl erhitzen, Zwiebel und Knoblauch anbraten.",
+      "4. Die gehackten Tomaten hinzufügen, mit Salz und Pfeffer abschmecken und ggf. etwas Zucker hinzufügen, um die Säure zu reduzieren.",
+      "5. Die Sauce köcheln lassen, bis sie etwas eingedickt ist. Dann die Albóndigas wieder in die Pfanne geben und in der Sauce weiter köcheln lassen, bis sie durchgegart sind (ca. 20-30 Minuten).",
+      "6. Heiß servieren."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Fleisch",
+      "Spanische Küche",
+      "Traditionell",
+      "Tapas",
+      "Abendessen",
+      "Mittagessen"
+    ],
+    "beschreibung": "Albóndigas en Salsa de Tomate sind spanische Fleischbällchen in einer aromatischen Tomatensauce. Dieses Gericht ist herzhaft und reichhaltig und eignet sich hervorragend als Hauptgericht mit Reis oder Brot.",
+    "bild": "assets/frontend/img/Firefly_Albondigas.jpg",
+    "tipp": "Für besonders saftige Albóndigas kannst du das Rinderhackfleisch mit etwas eingeweichtem Weißbrot vermengen, um die Feuchtigkeit zu binden. Um die Sauce noch aromatischer zu machen, füge beim Köcheln ein Lorbeerblatt oder etwas getrocknete Kräuter wie Thymian oder Oregano hinzu. Wenn du es gerne etwas schärfer magst, kannst du einen Hauch von Chili oder Paprikaflocken in die Sauce geben. Serviere die Albóndigas mit einem frischen Salat oder über einem Bett aus Reis oder Pasta für ein rundum gelungenes Essen."
+  },
+  {
+    "name": "Patatas Bravas",
+    "zubereitungszeit": "45 min",
+    "land": "Spanien",
+    "zutaten": [
+      "4-5 große Kartoffeln",
+      "Olivenöl",
+      "Salz",
+      "Pfeffer",
+      "Paprika (edelsüß oder scharf, je nach Vorliebe)",
+      "Für die Bravas-Sauce:",
+      "1 Dose gehackte Tomaten",
+      "1 Zwiebel, fein gehackt",
+      "2 Knoblauchzehen, fein gehackt",
+      "Olivenöl",
+      "Paprika",
+      "Chili oder Cayennepfeffer (optional, für Schärfe)",
+      "Zucker (optional, zum Abrunden)",
+      "Salz",
+      "Pfeffer"
+    ],
+    "Zubereitung": [
+      "1. Die Kartoffeln schälen und in Würfel schneiden. In einem Topf mit Wasser 10 Minuten vorkochen, dann abtropfen lassen.",
+      "2. Die Kartoffelwürfel in Olivenöl frittieren oder in der Pfanne braten, bis sie goldbraun und knusprig sind. Mit Salz und Pfeffer würzen.",
+      "3. Für die Bravas-Sauce Olivenöl in einer Pfanne erhitzen, Zwiebel und Knoblauch anbraten.",
+      "4. Die gehackten Tomaten hinzufügen und mit Paprika, Salz, Pfeffer und ggf. Chili oder Cayennepfeffer würzen. Die Sauce 15-20 Minuten köcheln lassen, bis sie eingedickt ist. Nach Belieben mit Zucker abschmecken.",
+      "5. Die Patatas Bravas auf einem Teller anrichten und mit der Sauce servieren."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Vegetarisch",
+      "Spanische Küche",
+      "Frittieren",
+      "Beilagen",
+      "Tapas",
+      "Kartoffeln",
+      "Abendessen",
+      "Mittagessen"
+    ],
+    "beschreibung": "Patatas Bravas sind knusprige Kartoffelwürfel, die in Spanien oft als Tapas serviert werden. Sie werden mit einer scharfen, würzigen Tomatensauce serviert, die das Gericht besonders lecker macht.",
+    "bild": "assets/frontend/img/Firefly_bravas.jpg",
+    "tipp": "Für besonders knusprige Patatas Bravas kannst du die vorgekochten Kartoffelwürfel vor dem Frittieren in etwas Mehl wälzen. Wenn du die Sauce schärfer magst, füge beim Kochen zusätzlich zu den Chilis einen kleinen Löffel scharfe Paprika hinzu. Um die Sauce noch intensiver zu machen, kannst du einen Schuss Rotweinessig oder einen Spritzer Zitronensaft hinzufügen, um den Geschmack abzurunden. Serviere die Patatas Bravas mit einer zusätzlichen Beilage von Aioli oder einer Joghurt-Knoblauch-Sauce, um das Geschmackserlebnis zu verfeinern."
+  },
+  {
+    "name": "Zwiebelrostbraten",
+    "zubereitungszeit": "1 h 30 min",
+    "land": "Deutschland",
+    "zutaten": [
+      "4 Rinderhüftsteaks (je ca. 200 g)",
+      "2 große Zwiebeln, in Ringe geschnitten",
+      "2 EL Butterschmalz oder Öl",
+      "200 ml Rinderbrühe",
+      "100 ml Rotwein",
+      "2 TL Senf",
+      "1 TL Paprikapulver",
+      "1 TL Kreuzkümmel",
+      "1 TL Thymian",
+      "1 Lorbeerblatt",
+      "1 EL Mehl (zum Binden der Sauce)",
+      "Salz und Pfeffer nach Geschmack",
+      "Frische Petersilie zum Garnieren"
+    ],
+    "Zubereitung": [
+      "1. Die Rinderhüftsteaks mit Salz, Pfeffer und Paprikapulver würzen.",
+      "2. In einer großen Pfanne das Butterschmalz oder Öl erhitzen und die Steaks darin von beiden Seiten scharf anbraten, bis sie eine schöne Kruste haben. Die Steaks aus der Pfanne nehmen und beiseite stellen.",
+      "3. Im gleichen Fett die Zwiebelringe anbraten, bis sie goldbraun und karamellisiert sind. Die Zwiebeln aus der Pfanne nehmen und beiseite stellen.",
+      "4. Das Mehl in der Pfanne anrösten, bis es leicht goldbraun ist. Dann langsam die Rinderbrühe und den Rotwein hinzufügen, dabei gut rühren, um Klumpen zu vermeiden.",
+      "5. Senf, Kreuzkümmel, Thymian und das Lorbeerblatt in die Sauce einrühren und zum Kochen bringen. Die Sauce 5 Minuten köcheln lassen, bis sie etwas eingedickt ist.",
+      "6. Die Steaks zurück in die Pfanne legen und in der Sauce etwa 10-15 Minuten weiter köcheln lassen, bis sie durchgegart sind. Die karamellisierten Zwiebeln wieder hinzufügen und gut vermengen.",
+      "7. Mit Salz und Pfeffer abschmecken und die Sauce nach Bedarf weiter einkochen lassen.",
+      "8. Den Zwiebelrostbraten mit frischer Petersilie garnieren und zusammen mit Beilagen wie Kartoffeln, Spätzle oder Gemüse servieren."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Fleisch",
+      "Deutsche Küche",
+      "Herzhaft",
+      "Abendessen",
+      "Mittagessen"
+    ],
+    "beschreibung": "Zwiebelrostbraten ist ein klassisches deutsches Gericht, das für seine saftigen Rindersteaks und die reichhaltige Zwiebel-Sauce bekannt ist. Die Steaks werden zuerst angebraten und dann in einer aromatischen Sauce aus Rinderbrühe und Rotwein zusammen mit karamellisierten Zwiebeln gekocht.",
+    "bild": "assets/frontend/img/Firefly_Zwiebelrostbraten.jpg",
+    "tipp": "Für besonders zarte Steaks lasse die Rinderhüftsteaks vor dem Braten auf Zimmertemperatur kommen. Wenn du eine besonders aromatische Sauce möchtest, füge zusätzlich zu den Gewürzen einen Schuss Worcestershiresauce oder einen kleinen Löffel Tomatenmark hinzu. Wenn du die Sauce noch cremiger magst, kannst du zum Schluss einen Löffel Sahne oder Crème fraîche einrühren. Serviere den Zwiebelrostbraten mit hausgemachten Rösti oder Knödeln für ein traditionelles, herzhaftes Mahl."
+  },
+  {
+    "name": "Cocido Madrileño",
+    "zubereitungszeit": "3-4 h",
+    "land": "Spanien",
+    "zutaten": [
+      "500 g Kichererbsen (über Nacht eingeweicht)",
+      "500 g Rindfleisch (z.B. Schulter oder Brust), in Stücke geschnitten",
+      "300 g Schweinefleisch (z.B. Schweinebauch), in Stücke geschnitten",
+      "1 Stück Chorizo (spanische Wurst)",
+      "1 Stück Morcilla (spanische Blutwurst)",
+      "1 Zwiebel, halbiert",
+      "2 Karotten, geschält und in Stücke geschnitten",
+      "1 Lauch, in Stücke geschnitten",
+      "1 Stück Sellerie, in Stücke geschnitten",
+      "1 Knoblauchzehe, angedrückt",
+      "1 Lorbeerblatt",
+      "2 TL Paprikapulver",
+      "Salz und Pfeffer nach Geschmack",
+      "Für die Beilage:",
+      "250 g Kartoffeln, geschält und in Stücke geschnitten",
+      "250 g Weißkohl, in Streifen geschnitten",
+      "Optional: 1-2 EL Reis oder kleine Nudeln"
+    ],
+    "Zubereitung": [
+      "1. Die eingeweichten Kichererbsen abtropfen lassen und in einen großen Topf geben. Das Rindfleisch, Schweinefleisch, Chorizo, Morcilla, Zwiebel, Karotten, Lauch, Sellerie, Knoblauch und Lorbeerblatt hinzufügen.",
+      "2. Mit Wasser aufgießen, sodass alle Zutaten gut bedeckt sind. Zum Kochen bringen und dann die Hitze reduzieren. Den Schaum, der sich an der Oberfläche bildet, regelmäßig abschöpfen.",
+      "3. Etwa 1-1,5 Stunden köcheln lassen, bis das Fleisch und die Kichererbsen fast gar sind.",
+      "4. Die Kartoffeln und optional Reis oder kleine Nudeln hinzufügen und weitere 30 Minuten köcheln lassen, bis alles gut durchgegart ist.",
+      "5. Den Weißkohl hinzufügen und nochmals 15-20 Minuten köcheln lassen, bis der Kohl weich ist. Mit Salz und Pfeffer abschmecken.",
+      "6. Die Brühe abseihen und in einer separaten Schüssel aufbewahren. Die festen Zutaten in eine große Servierschüssel geben.",
+      "7. Cocido Madrileño wird traditionell in mehreren Gängen serviert: Zuerst die Brühe als Suppe, dann die Kichererbsen und das Fleisch mit dem Gemüse.",
+      "8. Die Brühe kann nach Belieben mit etwas Reis oder Nudeln serviert werden."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Fleisch",
+      "Spanische Küche",
+      "Eintopf",
+      "Suppen",
+      "Mittagessen"
+    ],
+    "beschreibung": "Cocido Madrileño ist ein traditioneller spanischer Eintopf aus Madrid, der für seine reichhaltige und sättigende Art bekannt ist. Der Eintopf wird mit verschiedenen Fleischsorten, Kichererbsen und Gemüse zubereitet und in mehreren Gängen serviert: zuerst als Brühe, dann das Fleisch und Gemüse.",
+    "bild": "assets/frontend/img/Firefly_cocido.jpg",
+    "tipp": "Für ein noch intensiveres Aroma kannst du das Fleisch und die Kichererbsen am Vortag vorbereiten und im Kühlschrank ruhen lassen. Dadurch können die Aromen besser durchziehen. Beim Abseihen der Brühe achte darauf, dass du die Brühe durch ein feines Sieb gießt, um kleine Partikel zu entfernen. Die Brühe lässt sich auch hervorragend einfrieren und bei Bedarf aufwärmen. Serviere den Cocido Madrileño traditionell mit einer Portion der Brühe und dem Fleisch separat, damit jeder die Zutaten nach Belieben zusammenstellen kann. Die übrig gebliebene Brühe kann auch als Grundlage für andere Gerichte verwendet werden."
+  },
+  {
+    "name": "Bratkartoffeln",
+    "zubereitungszeit": "30 min",
+    "land": "Deutschland",
+    "zutaten": [
+      "800 g festkochende Kartoffeln",
+      "2-3 EL Pflanzenöl oder Butterschmalz",
+      "1 Zwiebel, gewürfelt",
+      "2 Knoblauchzehen, fein gehackt",
+      "1 TL Paprikapulver",
+      "1 TL Kreuzkümmel",
+      "Salz und Pfeffer nach Geschmack",
+      "Frische Petersilie oder Schnittlauch zum Garnieren (optional)"
+    ],
+    "Zubereitung": [
+      "1. Die Kartoffeln schälen und in gleichmäßige, dünne Scheiben schneiden. In einem Topf mit Wasser zum Kochen bringen und etwa 5-7 Minuten vorkochen, bis sie fast gar sind. Abgießen und gut abtropfen lassen.",
+      "2. In einer großen Pfanne das Pflanzenöl oder Butterschmalz erhitzen.",
+      "3. Die Kartoffelscheiben in die heiße Pfanne geben und bei mittlerer bis hoher Hitze braten, bis sie goldbraun und knusprig sind. Dabei gelegentlich wenden, um eine gleichmäßige Bräunung zu erreichen.",
+      "4. Die gewürfelte Zwiebel und den Knoblauch hinzufügen und mitbraten, bis die Zwiebeln weich und goldbraun sind.",
+      "5. Paprikapulver, Kreuzkümmel, Salz und Pfeffer hinzufügen und gut vermengen.",
+      "6. Die Bratkartoffeln in eine Servierschüssel geben und nach Belieben mit frischer Petersilie oder Schnittlauch garnieren."
+    ],
+    "schwierigkeit": "Einfach",
+    "attribute": [
+      "Beilagen",
+      "Deutsche Küche",
+      "Vegetarisch",
+      "Kartoffeln",
+      "Abendessen",
+      "Mittagessen"
+    ],
+    "beschreibung": "Bratkartoffeln sind eine beliebte deutsche Beilage, die aus vorgekochten Kartoffelscheiben besteht, die in einer Pfanne knusprig gebraten werden. Die Kartoffeln werden oft mit Zwiebeln und Knoblauch verfeinert und sind ein perfektes Pendant zu vielen Hauptgerichten.",
+    "bild": "assets/frontend/img/Firefly_Bratkartoffeln.jpg",
+    "tipp": "Für besonders knusprige Bratkartoffeln achte darauf, dass die Kartoffelscheiben gut abgetropft sind, bevor du sie in die Pfanne gibst. Ein zusätzlicher Tipp ist, die Kartoffeln nach dem Vorkochen auf einem Küchenpapier ausbreiten zu lassen, um überschüssige Feuchtigkeit zu entfernen. Wenn du die Bratkartoffeln besonders aromatisch magst, kannst du neben Paprikapulver und Kreuzkümmel auch etwas geräuchertes Paprikapulver oder getrocknete Kräuter wie Rosmarin oder Thymian hinzufügen. Für eine noch bessere Textur brate die Kartoffeln in mehreren Portionen, um eine Überfüllung der Pfanne zu vermeiden und eine gleichmäßige Bräunung zu gewährleisten."
+  },
+  {
+    "name": "Mango-Avocado-Salat",
+    "zubereitungszeit": "15 min",
+    "land": "Mexiko",
+    "zutaten": [
+      "2 reife Mangos, in Würfel geschnitten",
+      "2 Avocados, in Würfel geschnitten",
+      "1 rote Zwiebel, in feine Scheiben geschnitten",
+      "1 rote Paprika, gehackt",
+      "1/4 Tasse frischer Koriander, gehackt",
+      "Saft von 2 Limetten",
+      "2 Esslöffel Olivenöl",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "Zubereitung": [
+      "1. Zutaten vorbereiten: Mango, Avocado, Zwiebel, Paprika und Koriander in einer großen Schüssel vorsichtig vermischen.",
+      "2. Dressing zubereiten: Den Salat mit Limettensaft und Olivenöl beträufeln. Mit Salz und Pfeffer abschmecken.",
+      "3. Servieren: Sofort als erfrischender Beilagensalat oder leichtes Hauptgericht servieren."
+    ],
+    "schwierigkeit": "Leicht",
+    "attribute": [
+      "Glutenfrei",
+      "Mexikanische Küche",
+      "Vegetarisch",
+      "Vegan",
+      "Abendessen",
+      "Mittagessen",
+      "Salate"
+    ],
+    "beschreibung": "Ein tropischer Salat mit süßer Mango, cremiger Avocado und einem spritzigen Limetten-Dressing, perfekt für warme Tage.",
+    "bild": "assets/frontend/img/Firefly_MangoSalat.jpg",
+    "tipp": "Für zusätzlichen Crunch können Sie geröstete Mandeln oder Walnüsse darüber streuen."
+  },
+  {
+    "name": "Nopalitos-Salat",
+    "zubereitungszeit": "30 min",
+    "land": "Mexiko",
+    "zutaten": [
+      "300 g Nopales (geschält und in Streifen geschnitten)",
+      "2 Tomaten, gehackt",
+      "1 rote Zwiebel, in feine Scheiben geschnitten",
+      "100 g Frischkäse, zerbröselt",
+      "2 Esslöffel frischer Koriander, gehackt",
+      "1 Avocado, in Scheiben",
+      "1 Serrano-Chili, gehackt",
+      "Saft von 2 Limetten",
+      "2 Esslöffel Olivenöl",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "Zubereitung": [
+      "1. Nopales vorbereiten: Nopales in Salzwasser 15 Minuten kochen. Abgießen und abkühlen lassen.",
+      "2. Zutaten mischen: In einer großen Schüssel die gekochten Nopales mit Tomaten, Zwiebeln, Frischkäse, Koriander, Avocado und Serrano-Chili vermischen.",
+      "3. Dressing zubereiten: Den Salat mit Limettensaft und Olivenöl beträufeln. Mit Salz und Pfeffer abschmecken.",
+      "4. Servieren: Sofort als Hauptgericht oder Beilage servieren."
+    ],
+    "schwierigkeit": "Einfach",
+    "attribute": [
+      "Glutenfrei",
+      "Mexikanische Küche",
+      "Vegetarisch",
+      "Vegan (ohne Käse)",
+      "Abendessen",
+      "Mittagessen",
+      "Salate"
+    ],
+    "beschreibung": "Ein traditioneller mexikanischer Salat aus Nopales, Tomaten, Avocado und Frischkäse, angemacht mit Limettensaft und Olivenöl.",
+    "bild": "assets/frontend/img/Firefly_nopalsalat.jpg",
+    "tipp": "Für zusätzlichen Geschmack kann gerösteter Mais hinzugefügt werden, um dem Salat mehr Aroma und Textur zu verleihen."
+  },
+  {
+    "name": "Caesar Salad",
+    "zubereitungszeit": "25 min",
+    "land": "USA",
+    "zutaten": [
+      "1 Römersalat, in mundgerechte Stücke zerteilt",
+      "100 g Parmesan, gerieben",
+      "150 g Hähnchenbrust, gegrillt und in Streifen geschnitten",
+      "100 g Croutons",
+      "2 Knoblauchzehen, fein gehackt",
+      "4 Esslöffel Olivenöl",
+      "1 Eigelb",
+      "1 Esslöffel Dijon-Senf",
+      "2 Esslöffel Zitronensaft",
+      "2-3 Sardellenfilets, fein gehackt",
+      "Salz und Pfeffer nach Geschmack"
+    ],
+    "Zubereitung": [
+      "1. Dressing zubereiten: Knoblauch, Eigelb, Dijon-Senf, Zitronensaft und Sardellen in einer Schüssel vermischen. Nach und nach das Olivenöl unter ständigem Rühren hinzufügen, bis ein cremiges Dressing entsteht. Mit Salz und Pfeffer abschmecken.",
+      "2. Salat zusammenstellen: Den Römersalat in eine große Schüssel geben, mit dem Dressing übergießen und gut vermischen.",
+      "3. Toppings hinzufügen: Gegrillte Hähnchenstreifen, Croutons und geriebenen Parmesan über den Salat geben.",
+      "4. Servieren: Sofort servieren, damit die Croutons knusprig bleiben."
+    ],
+    "schwierigkeit": "Mittel",
+    "attribute": [
+      "Amerikanische Küche",
+      "Fleisch",
+      "Abendessen",
+      "Mittagessen",
+      "Salate"
+    ],
+    "beschreibung": "Ein beliebter Salat aus den USA mit gegrilltem Hähnchen, Parmesan und einem cremigen Sardellen-Dressing.",
+    "bild": "assets/frontend/img/Firefly_Caesarsalad.jpg",
+    "tipp": "Für eine leichtere Variante können Sie das Hähnchen durch gegrillte Garnelen ersetzen."
+  },
+  {
+    "name": "Gebratenes Hähnchen",
+    "zubereitungszeit": "1 Std 15 min",
+    "land": "Mexico",
+    "schwierigkeit": "Mittel",
+    "zutaten": [
+      "1 ganzes Hähnchen (ca. 1",
+      "5 kg)",
+      "3 Knoblauchzehen",
+      "fein gehackt",
+      "1 Zwiebel",
+      "grob gehackt",
+      "1-2 Limetten (Saft)",
+      "2 EL Pflanzenöl",
+      "1 TL Kreuzkümmel",
+      "1 TL Paprikapulver (süß)",
+      "1 TL getrockneter Oregano",
+      "1/2 TL Cayennepfeffer (nach Geschmack)",
+      "1 TL Salz",
+      "1 TL Pfeffer",
+      "2 TL Zucker",
+      "Frische Korianderblätter (zum Garnieren)",
+      "Limettenscheiben (zum Servieren)"
+    ],
+    "Zubereitung": [
+      "1. Marinade vorbereiten: In einer Schüssel Knoblauch",
+      "Zwiebel",
+      "Limettensaft",
+      "Pflanzenöl",
+      "Kreuzkümmel",
+      "Paprikapulver",
+      "Oregano",
+      "Cayennepfeffer",
+      "Salz",
+      "Pfeffer und Zucker gut vermengen.",
+      "2. Hähnchen marinieren: Das Hähnchen gründlich waschen und trocken tupfen. Die Marinade gleichmäßig über das Hähnchen verteilen",
+      "sowohl außen als auch innen. Das Hähnchen in einem großen Beutel oder in einer Schüssel abdecken und im Kühlschrank mindestens 1 Stunde",
+      "besser über Nacht",
+      "marinieren lassen.",
+      "3. Hähnchen braten: Den Ofen auf 200°C (Ober-/Unterhitze) vorheizen. Das Hähnchen in einem Bräter oder auf einem Rost im Ofen 60-75 Minuten braten",
+      "bis es goldbraun und durchgegart ist. Gelegentlich mit dem eigenen Saft oder etwas zusätzlichem Öl begießen.",
+      "4. Servieren: Das Hähnchen aus dem Ofen nehmen und vor dem Tranchieren 10 Minuten ruhen lassen. Mit frischen Korianderblättern und Limettenscheiben garnieren. Nach Belieben servieren."
+    ],
+    "attribute": [
+      "Glutenfrei",
+      "Fleisch",
+      "Mexikanische Küche",
+      "Abendessen",
+      "Mittagessen"
+    ],
+    "beschreibung": "Dieses traditionelle mexikanische Gericht zeichnet sich durch die aromatische Marinade aus, die dem Hähnchen eine saftige Textur und intensiven Geschmack verleiht. Perfekt für ein Familienessen oder besondere Anlässe\r\n",
+    "bild": "assets/frontend/img/84736539a4b84e8dfd3ddf500.jpg",
+    "tipp": "Für zusätzliche Würze können Sie das Hähnchen vor dem Braten mit etwas zusätzlichem Paprikapulver oder Chili bestreuen. Dazu passen Reis, Bohnen oder ein frischer Salat."
+  }
+]
